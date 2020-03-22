@@ -1,0 +1,2001 @@
+[
+{"name":"AU COCHON VENTRU","city":"LE CREUSOT","address":"2 rue Mar�chal Fosh            71200     LE CREUSOT","url":"www.aucochonventru.fr"}
+,
+{"name":"CHEZ CAMILLE","city":"ARNAY-LE-DUC","address":"1 Place Edouard Herriot            21230     ARNAY-LE-DUC","url":"www.logishotels.com/fr/restaurant/hotel-chez-camille-3979"}
+,
+{"name":"LA BOBINE","city":"ST GILLES LES BAINS","address":"BD Leconte DELISLE            97434     ST GILLES LES BAINS","url":"www.la-bobine.com"}
+,
+{"name":"L'ABRICOTIER","city":"SAINT-MACAIRE","address":"2 rue BERGOEING            33490     SAINT-MACAIRE","url":"www.restaurant-labricotier.com"}
+,
+{"name":"LE RIVE GAUCHE","city":"CLOHARS-CARNO�T","address":"Quai kernabat, Port de Doelan            29360     CLOHARS-CARNO�T","url":"www.lerivegauchedoelan.fr"}
+,
+{"name":"LE SENECHAL","city":"SCRIGNAC","address":"1 Place des trois Coant            29640     SCRIGNAC","url":"www.lesenechal-restaurant.com"}
+,
+{"name":"LES DEUX SARDINES","city":"ST BRIAC","address":"2 bd de la Houle            35800     ST BRIAC","url":""}
+,
+{"name":"LES FUNAMBULES","city":"PARIS","address":"12 rue Faidherbe            75011     PARIS","url":"www.lesfunambules.business.site"}
+,
+{"name":"LES SAVEURS DU BISTROT","city":"LYON","address":"10 rue du Professeur Weill            69006     LYON","url":"www.saveursdubistrot.com"}
+,
+{"name":"RESTAURANT PAQUET","city":"DRUILLAT","address":"74 Place Henri Dunant            01160     DRUILLAT","url":"www.restaurantpaquet.com"}
+,
+{"name":"LA MAISON CARRIER","city":"CHAMONIX-MONT-BLANC","address":"44 route du Bouchet            74400     CHAMONIX-MONT-BLANC","url":"www.hameaualbert.fr"}
+,
+{"name":"LES ALISIERS","city":"LAPOUTROIE","address":"5, le faude            68650     LAPOUTROIE","url":"www.alisiers.com"}
+,
+{"name":"L'AUBERGE DU RELAIS","city":"B�RENX","address":"460 Grande Route            64300     B�RENX","url":"www.auberge-du-relais.com "}
+,
+{"name":"AU PIED DE FOUET","city":"PARIS","address":"3 rue Saint Beno�t            75006     PARIS","url":"www.aupieddefouet.com"}
+,
+{"name":"AUBERGE DU BOENLESGRAB","city":"WASSERBOURG","address":"Lieu-dit Boenlesgrab            68230     WASSERBOURG","url":"www.auberge-boenlesgrab.fr"}
+,
+{"name":"CAFE DE LA GARE","city":"CHARNAY-L�S-M�CON","address":"33 chemin de la Lye            71850     CHARNAY-L�S-M�CON","url":"www.cafedelagare71.fr"}
+,
+{"name":"CESAR ETOILE","city":"PARIS","address":"12 avenue de Wagram            75008     PARIS","url":"www.cesar-restaurant.com"}
+,
+{"name":"LA CHARBONNIERE","city":"ANCENIS","address":"Boulevard Joubert            44150     ANCENIS","url":"www.restaurant-la-charbonniere.com"}
+,
+{"name":"L'ATELIER DES SAISONS","city":"TARBES","address":"6 avenue du March� Brauhauban            65000     TARBES","url":"www.lecarrefermier.fr"}
+,
+{"name":"LE 1837 VICTOR HUGO","city":"AULT","address":"25 rue de la P�che            80460     AULT","url":"www.VillaAultiaHotel.com"}
+,
+{"name":"LE BISTROT DES HALLES","city":"LE HAVRE","address":"7, Place des Halles            76600     LE HAVRE","url":"www.bistrodeshalles.fr"}
+,
+{"name":"LE MANOIR DU SPHINX","city":"PERROS-GUIREC","address":"67 chemin de la messe            22700     PERROS-GUIREC","url":"www.lemanoirdusphinx.com"}
+,
+{"name":"LE PLATO","city":"LYON","address":"1 rue Villeneuve            69004     LYON","url":"www.restaurant-leplato.fr"}
+,
+{"name":"LE SYRACUSE","city":"CHAUNY","address":"118 rue de la chauss�e            02300     CHAUNY","url":""}
+,
+{"name":"LES FRERES MARCHAND","city":"NANCY","address":"95 grand rue            54000     NANCY","url":"www.restaurant-marchand.com"}
+,
+{"name":"LES MARRONNIERS","city":"THUEYTS","address":"Place du Champ de Mars            07330     THUEYTS","url":"www.hotel-les-marronniers.com"}
+,
+{"name":"LES PYRENEES","city":"TARDETS-SORHOLUS","address":"Place centrale            64470     TARDETS-SORHOLUS","url":"www.restaurant-les-pyrenees.fr"}
+,
+{"name":"RESTAURANT ANDR� CHATELARD","city":"SAINT-BONNET-LE-FROID","address":"Place aux champignons            43290     SAINT-BONNET-LE-FROID","url":"www.restaurant-chatelard.com"}
+,
+{"name":"LA BELLE EPOQUE","city":"GIEN","address":"111 avenue de la R�publique            45500     GIEN","url":"www.labelleepoque-gien.com"}
+,
+{"name":"LE MOULIN DE CHALONS","city":"LE GUA","address":"2 rue du Bassin            17600     LE GUA","url":"www.moulin-de-chalons.com"}
+,
+{"name":"LE TEMPS D'M","city":"THONON-LES-BAINS","address":"3 rue Ferdinand Dubouloz            74200     THONON-LES-BAINS","url":"https://restaurantletempsdm.wordpress.com/"}
+,
+{"name":"TWO AMIGOS","city":"LYON","address":"1 rue Henri IV            69002     LYON","url":"www.locorestaurant.fr"}
+,
+{"name":"BRASSERIE L'ANICIEN","city":"LE PUY-EN-VELAY","address":"43 Place du Breuil            43000     LE PUY-EN-VELAY","url":"www.lanicien.fr"}
+,
+{"name":"CAFE FLEURS","city":"ISLE SUR SORGUES","address":"9 rue THEODORE AUBANEL            84800     ISLE SUR SORGUES","url":"www.cafefleurs.com"}
+,
+{"name":"LA PETITE MAISON DE BRAS","city":"BRAS","address":"120 route de Barjols            83149     BRAS","url":"www.lapetitemaisondebras.sitew.com"}
+,
+{"name":"","city":"","address":"","url":""}
+,
+{"name":"RESTAURANT LE YUCCA","city":"PERPIGNAN","address":"All�e des Ch�nes Parc DuCup            66000     PERPIGNAN","url":"www.le-yucca.com"}
+,
+{"name":"A L'ERE DU TEMPS","city":"REIMS","address":"123 avenue de Laon            51100     REIMS","url":"www.aleredutemps.com"}
+,
+{"name":"BRASSERIE BREI'Z","city":"SAINT-BRIEUC","address":"1 jardins Allende            22000     SAINT-BRIEUC","url":"www.brasseriebreiz.com"}
+,
+{"name":"H�TEL RESTAURANT KERMOOR","city":"PLOGOFF","address":"18 Plage Du Loch - Route de La Pointe du Raz            29770     PLOGOFF","url":"www.kermoor-audierne.com"}
+,
+{"name":"LA COLOMBE","city":"HY�RES","address":"663 rte de Toulon            83400     HY�RES","url":"www.restaurantlacolombe.com"}
+,
+{"name":"LA COURTINE","city":"COGNAC","address":"Parc Fran�ois 1er            16100     COGNAC","url":"www.restaurant-la-courtine.fr"}
+,
+{"name":"LA GUEULARDIERE","city":"OZOIR-LA-FERRI�RE","address":"66 avenue du GAL DE GAULLE            77330     OZOIR-LA-FERRI�RE","url":"www.la-gueulardiere.com"}
+,
+{"name":"L'ANTIDOTE","city":"CANNES","address":"60 bd d'Alsace            06400     CANNES","url":"www.lantidote-christopheferre.fr"}
+,
+{"name":"L'AUBERGE DU CHEVAL BLANC","city":"LA FOR�T-SUR-S�VRE","address":"36 rue Mal de Lattre de Tassigny            79380     LA FOR�T-SUR-S�VRE","url":"www.aubergeduchevalblanc79.fr"}
+,
+{"name":"L'AXEL","city":"FONTAINEBLEAU","address":"43 rue de  France            77300     FONTAINEBLEAU","url":"http://www.laxel-restaurant.com"}
+,
+{"name":"LE PETIT COQ AUX CHAMPS","city":"CAMPIGNY PONT AUDEMER","address":"400 chemin du petit coq            27500     CAMPIGNY PONT AUDEMER","url":"www.lepetitcoqauxchamps.fr"}
+,
+{"name":"L'EMBARCADERE","city":"JASSANS-RIOTTIER","address":"15 avenue de la Place            01480     JASSANS-RIOTTIER","url":"www.lespritblanc.com"}
+,
+{"name":"LES CLOSEAUX","city":"VALLI�RES-LES-GRANDES","address":"Les closeaux            41400     VALLI�RES-LES-GRANDES","url":"www.lescloseaux.com"}
+,
+{"name":"LES DIABLES AU THYM","city":"PARIS","address":"35, rue Berg�re            75009     PARIS","url":"www.lesdiablesauthym.com"}
+,
+{"name":"MAYSSA","city":"VILLEFRANCHE-SUR-MER","address":"Place Wilson            06230     VILLEFRANCHE-SUR-MER","url":"http://www.mayssabeach.fr/"}
+,
+{"name":"RESTAURANT RATATOUILLE","city":"CASTELNAU-DE-M�DOC","address":"1 Place du general Leclerc            33480     CASTELNAU-DE-M�DOC","url":""}
+,
+{"name":"FLOTTES","city":"PARIS","address":"2 rue Cambon            75001     PARIS","url":"www.flottes.fr"}
+,
+{"name":"LA BERGERIE DE PLANPRAZ","city":"CHAMONIX","address":"T�l�cabine du br�vent            74400     CHAMONIX","url":"www.bergerie-restaurant.com"}
+,
+{"name":"L'ADRET DE LA FLEGERE","city":"CHAMONIX","address":"Fl�g�re            74400     CHAMONIX","url":"www.flegere-restaurant.com"}
+,
+{"name":"L'ANGELICK","city":"LA MURAZ","address":"Chef lieu            74560     LA MURAZ","url":"www.angelick.fr"}
+,
+{"name":"LE GREEN ST LAZARE","city":"LIMOGES","address":"avenue DU GOLF            87000     LIMOGES","url":"www.legreensaintlazare.com"}
+,
+{"name":"PLAN JORAN","city":"CHAMONIX","address":"T�l�cabine de Plan Joran            74400     CHAMONIX","url":"www.planjoran-restaurant.com"}
+,
+{"name":"RESTAURANT LE 3842","city":"CHAMONIX","address":"L'aiguille du midi            74400     CHAMONIX","url":"www.aiguilledumidi-restaurant.com "}
+,
+{"name":"A TABLE","city":"VAGNEY","address":"9 rue du G�n�ral de Gaulle            88120     VAGNEY","url":"www.restaurant-atable.com"}
+,
+{"name":"AUX LYS DE CHABLIS","city":"CHABLIS","address":"38 RTE D'AUXERRE            89800     CHABLIS","url":"www.hotel-lys-chablis.com"}
+,
+{"name":"avenue 294","city":"BRUNSTATT","address":"294 avenue D'ALTKIRCH            68350     BRUNSTATT","url":"http://www.restaurantavenue294.fr/"}
+,
+{"name":"CH�TEAU COLBERT","city":"MAUL�VRIER","address":"Place du Ch�teau            49360     MAUL�VRIER","url":"www.chateaucolbert.com"}
+,
+{"name":"CH�TEAU DE LA TOUR","city":"B�GUEY","address":"2 avenue de la Liberation            33410     B�GUEY","url":"www.hotel-restaurant-chateaudelatour.com"}
+,
+{"name":"DAME L'OIE","city":"PERNES-LES-FONTAINES","address":"56 rue Troubadour Durand            84210     PERNES-LES-FONTAINES","url":"www.dameloie.fr"}
+,
+{"name":"DOMEVA CAFFE","city":"LYON","address":"24 rue de Bourgogne            69009     LYON","url":"www.domevacaffe.com"}
+,
+{"name":"LA FERME D'AVERDOINGT","city":"LA CHAPELLE D'ARMENTI�RES","address":"199 bis rue Omer Ollivier            59930     LA CHAPELLE D'ARMENTI�RES","url":"www.lafermedaverdoingt.com"}
+,
+{"name":"CAMBUSE BRETONNE","city":"SIX-FOURS-LES-PLAGES","address":"874 Prom. G�n�ral Charles de Gaulle            83140     SIX-FOURS-LES-PLAGES","url":"www.lapecheauxmoules83.fr"}
+,
+{"name":"LA TABLE D'AIME","city":"RIVESALTES","address":"4 rue francisco Ferrer            66600     RIVESALTES","url":"www.cazes-rivesaltes.com"}
+,
+{"name":"LE MOULIN DE LA RIVIERE","city":"L'OIE","address":"La basse rivi�re            85140     L'OIE","url":"www.lemoulindelariviere.fr"}
+,
+{"name":"L'OURS BLANC","city":"SAINT-MARTIN-DE-BELLEVILLE","address":"LES MENUIRES            73440     SAINT-MARTIN-DE-BELLEVILLE","url":"www.hotel-ours-blanc.coo"}
+,
+{"name":"MA BELLE PROVENCE","city":"PARGNY-FILAIN","address":"2 ROUTE DU LAC            02000     PARGNY-FILAIN","url":"www.restaurant-aisne-gastronomique.com"}
+,
+{"name":"RESTAURANT CHABERT ET FILS","city":"LYON","address":"11 rue des Marronniers            69002     LYON","url":"www.chabertrestaurant.fr"}
+,
+{"name":"RESTAURANT LE TROLLE","city":"�CHIROLLES","address":"16 avenue de Kimberley            38130     �CHIROLLES","url":"www.dauphitel.fr"}
+,
+{"name":"RESTAURANT L'ID","city":"LINGOLSHIEM","address":"11 rue du Ch�teau            67380     LINGOLSHIEM","url":"www.restaurant-id.fr"}
+,
+{"name":"RESTAURANT TINTILOU","city":"PARIS","address":"37 bis rue de Montreuil            75011     PARIS","url":"www.letintilou.fr"}
+,
+{"name":"","city":"","address":"","url":""}
+,
+{"name":"COCO KAFE L'AQUARIUM","city":"LE GOSIER","address":"Place cr�ole Marina            97190     LE GOSIER","url":"www.coco-kafe.restaurantguadeloupe.biz"}
+,
+{"name":"L'AMBROSIA","city":"PEZENS","address":"RN 113 \"Lieu-dit la Madeleine\"            11170     PEZENS","url":"www.ambrosia-pezens.com"}
+,
+{"name":"L'ATELIER DES SAVEURS","city":"NOEUX-LES-MINES","address":"94 rue Nationale            62290     NOEUX-LES-MINES","url":"www.restaurant-latelierdessaveurs.fr"}
+,
+{"name":"L'AUBERGE DU MANET","city":"MONTIGNY-LE-BRETONNEUX","address":"61, avenue Manet            78180     MONTIGNY-LE-BRETONNEUX","url":"www.aubergedumanet.com"}
+,
+{"name":"LE PUITS FLEURI","city":"LES BEAUMETTES","address":"ZA le plan des amandiers RD 90            84220     LES BEAUMETTES","url":"https://www.traiteur-gordes.fr/"}
+,
+{"name":"LE TIVOLI","city":"VIC-EN-BIGORRE","address":"Place Gambetta            65500     VIC-EN-BIGORRE","url":"www.hotel-restaurant-tivoli.com"}
+,
+{"name":"LES BAINS DE SECOURS","city":"S�VIGNACQ-MEYRACQ","address":"Route des  bains            64260     S�VIGNACQ-MEYRACQ","url":"www.hotel-les-bains.com"}
+,
+{"name":"RESTAURANT LE JOLLA","city":"MARGENCEL","address":"Port de S�chex            74200     MARGENCEL","url":"www.lejolla.com"}
+,
+{"name":"VATEL CHANTILLY","city":"CHANTILLY","address":"8 Place Omer Vallon            60500     CHANTILLY","url":"www.vatelchantilly.fr"}
+,
+{"name":"AUBERGE DES GOURMETS","city":"LE VILLARS","address":"Place de l'Eglise            71700     LE VILLARS","url":"www.aubergedesgourmets.fr"}
+,
+{"name":"AUBERGE DU BORN","city":"SAINT-JULIEN-EN-BORN","address":"32 route du Nel            40170     SAINT-JULIEN-EN-BORN","url":""}
+,
+{"name":"AUBERGE DU CYGNE DE LA CROIX","city":"NOGENT-SUR-SEINE","address":"22 rue des Ponts            10400     NOGENT-SUR-SEINE","url":"www.cygne-de-la-croix.fr"}
+,
+{"name":"H ! BRASSERIE","city":"STRASBOURG","address":"1 avenue  Herrenschmidt            67000     STRASBOURG","url":"www.h-ent-drink.fr"}
+,
+{"name":"LA MERE GERMAINE","city":"VILLEFRANCHE-SUR-MER","address":"9 Quai amiral Courbet            06230     VILLEFRANCHE-SUR-MER","url":"www.meregermaine.com"}
+,
+{"name":"LE LIDO","city":"G�RARDMER","address":"138 chemin tour du lac            88400     G�RARDMER","url":"www.lido-gerardmer.fr"}
+,
+{"name":"L'ECLUSE","city":"VILLENEUVE LES BEZIERS","address":"16 avenue Pierre Beregovoy            34420     VILLENEUVE LES BEZIERS","url":"www.restaurant-ecluse-beziers.fr"}
+,
+{"name":"LES EPICURIENS","city":"SAINTE-PREUVE","address":"1 Ferme de Barive            02350     SAINTE-PREUVE","url":"www.chateau-de-barive.com"}
+,
+{"name":"H�TEL-RESTAURANT LE SAINT-JACQUES","city":"THORIGN�-SUR-DU�","address":"Place du monument            72160     THORIGN�-SUR-DU�","url":"www.hotel-sarthe.fr"}
+,
+{"name":"LA CHARRUE D'OR","city":"SARREGUEMINES","address":"21 rue Poincar�            57200     SARREGUEMINES","url":"www.lacharruedor.fr"}
+,
+{"name":"LA GRANDE TOUR","city":"SAINT-AY","address":"21 route nationale 152            45130     SAINT-AY","url":"www.lagrandetour.com"}
+,
+{"name":"LA MAISON DE MARIE","city":"NICE","address":"5, rue Mass�na            06000     NICE","url":"www.lamaisondemarie.com"}
+,
+{"name":"LA MERENDA","city":"LA MARTRE","address":"RD 6085 le Logis du Pin            83840     LA MARTRE","url":"www.lamerenda83.com"}
+,
+{"name":"LA POISSONNERIE DU CAP","city":"LE CAP D'AGDE","address":"Rond-Point du Bagnas            34300     LE CAP D'AGDE","url":"https://www.facebook.com/restaurantlapoissonnerieducap/?ref=bookmarks"}
+,
+{"name":"LA TABLE DE BEAURECUEIL","city":"BAURECUEIL","address":"66 route de Meyreuil-all�e des muriers            13100     BAURECUEIL","url":"www.latabledebeaurecueil.com"}
+,
+{"name":"LA TABLE DE LA ROYA","city":"SAINT-FLORENT","address":"Lieu-dit Cippitone            20217     SAINT-FLORENT","url":"www.hoteldelaroya.com"}
+,
+{"name":"LE BELLEVUE","city":"ST HYPPOLITE SUR LE DOUBS","address":"28 grande rue            25190     ST HYPPOLITE SUR LE DOUBS","url":"www.lebellevue-hotel.fr"}
+,
+{"name":"LE GRANGOUSIER","city":"LES VANS","address":"10 rue Courte            07140     LES VANS","url":""}
+,
+{"name":"VILLA DES BORDES","city":"CL�RY-SAINT-ANDR�","address":"9 rue Bordes            45370     CL�RY-SAINT-ANDR�","url":"https://www.logishotels.com/fr/"}
+,
+{"name":"LA CIVELLE","city":"REZ�","address":"21 quai marcel Boissard            44400     REZ�","url":"www.lacivelle.com"}
+,
+{"name":"L'AMER","city":"DESHAIES","address":"Rue de la Vague Bleue,                DESHAIES","url":"www.l-amer.fr"}
+,
+{"name":"L'AUBERGE DE LA FORGE","city":"VILLENEUVE D'ASCQ","address":"160 rue de Lannoy            59650     VILLENEUVE D'ASCQ","url":"www.auberge-de-la-forge.com"}
+,
+{"name":"LE BEAU RIVAGE","city":"CONDRIEU","address":"2 rue DU BEAU RIVAGE            69420     CONDRIEU","url":"www.hotel-beaurivage.com"}
+,
+{"name":"LE PETIT BISTROT","city":"CHARTRES","address":"12 Place Billard            28000     CHARTRES","url":""}
+,
+{"name":"LE RANCH DES LACS","city":"AUGNE","address":"Vervialle            87120     AUGNE","url":"www.le-ranch-des-lacs.com"}
+,
+{"name":"TOURBILLON","city":"HONFLEUR","address":"13 Place Sainte Catherine            14600     HONFLEUR","url":"www.restaurant-honfleur-tourbillon.fr"}
+,
+{"name":"AUBERGE  CHEVAL BLANC","city":"YVOY-LE-MARRON","address":"1 Place Cheval Blanc            41600     YVOY-LE-MARRON","url":"www.aubergeduchevalblanc.com"}
+,
+{"name":"CASA NISSA","city":"NICE","address":"55 rue Gioffredo            06000     NICE","url":"www.casa-nissa.com"}
+,
+{"name":"CAVEAU LE HEUHAUS","city":"EGUISHEIM","address":"7 rue MONSEIGNEUR STUMPF            68420     EGUISHEIM","url":"www.caveauheuhaus.com"}
+,
+{"name":"LA CABANE","city":"BELIN-B�LIET","address":"42 route de Bordeaux            33830     BELIN-B�LIET","url":"www.restaurantlacabane.com"}
+,
+{"name":"LA CASCADE","city":"SAINT BENOIT","address":"Glandieu            01300     SAINT BENOIT","url":"www.la-cascade-restaurant.com"}
+,
+{"name":"LA MAISON DES HALLES","city":"TOURS","address":"19 Place des halles            37000     TOURS","url":"www.maisondeshalles.com"}
+,
+{"name":"LE RELAIS DES GOURMETS","city":"RUILL�-EN-CHAMPAGNE","address":"4 rue de la V�gre            72240     RUILL�-EN-CHAMPAGNE","url":"www.le-relais-des-gourmets.business.site"}
+,
+{"name":"LE SAINT GEORGES","city":"PALAVAS-LES-FLOTS","address":"4 BD du mar�chal Foch            34250     PALAVAS-LES-FLOTS","url":"www.lestgeorges.fr"}
+,
+{"name":"LE SAVOIE","city":"MARGAUX","address":"1 Place de la Tr�moille            33460     MARGAUX","url":"www.lesavoie.net"}
+,
+{"name":"LES COPAINS D'ABORD","city":"TOULOUSE","address":"38 rue du Pont de Guillemery            31000     TOULOUSE","url":"https://www.lescopains.fr/"}
+,
+{"name":"RESTAURANT BEAURIVAGE","city":"LE BOURGET-DU-LAC","address":"Boulevard du Lac            73370     LE BOURGET-DU-LAC","url":"www.beaurivage-bourget-du-lac.com"}
+,
+{"name":"AIL DES OURS","city":"AMIENS","address":"11 rue Sire Firmin Leroux            80000     AMIENS","url":"https://www.facebook.com/aildesoursamiens/"}
+,
+{"name":"AUBERGE DE LA PETITE REINE","city":"SIORAC-EN-P�RIGORD","address":"Route de Belves            24170     SIORAC-EN-P�RIGORD","url":"www.petite-reine.com"}
+,
+{"name":"BRASSERIE LE Z","city":"CHAMB�RY","address":"12 avenue des ducs de Savoie            73000     CHAMB�RY","url":"www.brasserielez.com"}
+,
+{"name":"COTE SAVEURS","city":"LA TOUR-DU-PIN","address":"2 Place du 8 mai 1945            38110     LA TOUR-DU-PIN","url":"www.cotesaveurs.fr"}
+,
+{"name":"DAME NATURE","city":"SAINT-LAURENT-DU-VAR","address":"167 promenade des Flots bleus            06700     SAINT-LAURENT-DU-VAR","url":"www.restaurant-damenature.com"}
+,
+{"name":"LA COLOMBE","city":"B�DOIN","address":"3890 Route du Mont Ventoux,    Hameau de Sainte Colombe        84410     B�DOIN","url":"www.la-colombe.fr"}
+,
+{"name":"LA GRENOUILLERE","city":"SAINT-JEAN-D'ARVES","address":"1600 La Chal            73530     SAINT-JEAN-D'ARVES","url":"https://restaurant-la-grenouillere.business.site/"}
+,
+{"name":"LA HAIE TONDUE","city":"DRUBEC","address":"3 route de Caen            14130     DRUBEC","url":"www.restaurant-la-haie-tondue.fr"}
+,
+{"name":"LA TABL'ATURE","city":"LYON","address":"12 rue Bechevelin            69007     LYON","url":"www.latablature.fr"}
+,
+{"name":"LE GOULU","city":"ALBI","address":"1 Place Stalingrad            81000     ALBI","url":"www.hotel-orleans-albi.com"}
+,
+{"name":"LE MONARQUE","city":"SELONCOURT","address":"23 rue de Bernes            25230     SELONCOURT","url":"www.restaurant-lemonarque.fr"}
+,
+{"name":"LE MOULIN DE CELAC","city":"QUESTEMBERT","address":"5 rue DE CELAC            56230     QUESTEMBERT","url":"www.moulindecelac.com"}
+,
+{"name":"LE PECOITZ","city":"AINCILLE","address":"Route d'Iraty            64220     AINCILLE","url":"www.hotel-pecoitz-pays-basque.com"}
+,
+{"name":"LES CAPUCINS","city":"BELFORT","address":"20 faubourg de Montb�liard            90000     BELFORT","url":"www.hotellescapucins.com"}
+,
+{"name":"LES DEUX FRERES","city":"ROQUEBRUNE-CAP-MARTIN","address":"1 Place des deux fr�res            06190     ROQUEBRUNE-CAP-MARTIN","url":"www.lesdeuxfreres.com"}
+,
+{"name":"RESTAURANT DU COMMERCE","city":"ESTANG","address":"Place du 4 septembre            32240     ESTANG","url":"www.lecommercehotelrestaurant.fr"}
+,
+{"name":"RESTAURANT L'INSOLENT","city":"SEYNE LES ALPES","address":"Les Auches            04140     SEYNE LES ALPES","url":"www.vieux-tilleul.fr"}
+,
+{"name":"RESTAURANT TANTE YVONNE","city":"QUINCIEUX","address":"Chemin sous le bourg            69650     QUINCIEUX","url":"www.hotel-restauranttanteyvonne.fr"}
+,
+{"name":"TAVERNE KATZ","city":"SAVERNE","address":"80 grand rue            67700     SAVERNE","url":"www.tavernekatz.com"}
+,
+{"name":"AU BON VIVRE","city":"TERRE DE HAUT","address":"30 rue Jean Calot            97137     TERRE DE HAUT","url":"www.aubonvivre.net"}
+,
+{"name":"AU VIEUX GASSIN","city":"GASSIN","address":"Place Dei Barry            83580     GASSIN","url":"www.auvieuxgassin_restaurant.com"}
+,
+{"name":"CLOS DEAUVILLE SAINT GATIEN","city":"SAINT-G�TIEN-DES-BOIS","address":"Clos Saint Gatien            14130     SAINT-G�TIEN-DES-BOIS","url":"www.clos-st-gatien.fr"}
+,
+{"name":"LA BISTROT DE SA VIE","city":"VALBONNE","address":"1360 route d'Antibes            06560     VALBONNE","url":"www.restaurantdanieldesavie.fr"}
+,
+{"name":"LA TABLE DE SANDORINE","city":"RETHEL","address":"26 rue PIERRE LATECOERE            08300     RETHEL","url":"www.traiteur-restaurant-sandorine.com"}
+,
+{"name":"LE SEJOUR CAFE","city":"NICE","address":"11 rue Grimaldi            06000     NICE","url":""}
+,
+{"name":"RESTAURANT AR INIZ","city":"SAINT-MALO","address":"8 Bd Hebert            35400     SAINT-MALO","url":"www.ariniz.com"}
+,
+{"name":"AUBERGE DE L'ARTOIRE","city":"E PERRAY EN YVELINES","address":"2 rue DE PARIS            78610     E PERRAY EN YVELINES","url":"www.auberge-artoire.fr"}
+,
+{"name":"DOMAINE DE LA GRANGE AUX ORMES","city":"MARLY","address":"Rue de la Grange aux Ormes            57155     MARLY","url":"www.grange-aux-ormes.com"}
+,
+{"name":"LA LOZERETTE","city":"FLORAC","address":"Cocur�s            48400     FLORAC","url":"www.lalozerette.com"}
+,
+{"name":"LA TABLE DE GUY","city":"BRON","address":"58 avenue Savador Allende            69500     BRON","url":"www.latabledeguy.fr"}
+,
+{"name":"L'ATELIER DES SENS","city":"BELLEY","address":"10 rue Georges Girerd            01300     BELLEY","url":""}
+,
+{"name":"LE BOUCHON BIARROT","city":"BIARRITZ","address":"2 avenue de la Reine  Victoria            64200     BIARRITZ","url":"www.bouchonbiarrot.com"}
+,
+{"name":"LE FAUX FILET","city":"PARIS","address":"16 rue Joubert            75009     PARIS","url":"www.faux-filet.fr"}
+,
+{"name":"LE PONT BERNET","city":"PIAN MEDOC","address":"1160 ROUTE DE SOULAC            33290     PIAN MEDOC","url":"www.pont-bernet.com"}
+,
+{"name":"LE TIROU","city":"CASTELNAUDARY","address":"90 avenue Monseigneur Delangle            11400     CASTELNAUDARY","url":"www.letirou.com"}
+,
+{"name":"LES RELAIS D'ALSACE","city":"REZ�","address":"131 route des Sorini�res            44400     REZ�","url":"www.nantessud.lesrelaisdalsace.com"}
+,
+{"name":"LES TOURELLES","city":"LE CROTOY","address":"2 rue Pierre Guerlain            80550     LE CROTOY","url":"www.lestourelles.com"}
+,
+{"name":"RESTAURANT DU CH�TEAU","city":"SAINT-SERNIN-DU-BOIS","address":"2120 route de St Sernin            71200     SAINT-SERNIN-DU-BOIS","url":"www.le-restaurant-du-chateau-st-sernin-du-bois.com"}
+,
+{"name":"RESTAURANT LA DILIGENCE","city":"LA FERT�-SAINT-CYR","address":"13 rue du Bourg            41220     LA FERT�-SAINT-CYR","url":"www.hotel-ladiligence.com"}
+,
+{"name":"BELLE ISLE SUR RISLE","city":"PONT-AUDEMER","address":"112 route de Rouen            27500     PONT-AUDEMER","url":"www.bellile.com"}
+,
+{"name":"BRASSERIE LE M","city":"ORL�ANS","address":"44 Quai Barentin            45000     ORL�ANS","url":""}
+,
+{"name":"CH�TEAU DE LA COMMANDERIE","city":"EYBENS","address":"17 avenue d'Echirolles            38320     EYBENS","url":"www.commanderie.fr"}
+,
+{"name":"LE PLAISIR DES GOURMANDS","city":"DUERNE","address":"2 RTE DES COURTINES            69850     DUERNE","url":"http://www.le-plaisir-des-gourmands.fr"}
+,
+{"name":"LES BARTAVELLES","city":"CROTS","address":"Le clos de Pommiers            05200     CROTS","url":"www.bartavelles.com"}
+,
+{"name":"LES FINES GUEULES","city":"LYON","address":"16 rue Lainerie            69005     LYON","url":"www.fines-gueules.fr"}
+,
+{"name":"LES GENTIANETTES","city":"LA CHAPELLE-D'ABONDANCE","address":"Route de Chevenne            74360     LA CHAPELLE-D'ABONDANCE","url":"www.gentianettes.fr"}
+,
+{"name":"RESTAURANT DELICATESSEN","city":"CAVALAIRE-SUR-MER","address":"La Croix du Sud - 95 parking du Rivage            83240     CAVALAIRE-SUR-MER","url":""}
+,
+{"name":"AU PIED DE BOEUF","city":"S�LESTAT","address":"17 rue du Pr�sident Raymond Poincarr�            67600     S�LESTAT","url":"www.pieddeboeuf.fr"}
+,
+{"name":"AUBERGE DE THOIRE","city":"THOIRETTE-COISIA","address":"20 route de Bourg            39240     THOIRETTE-COISIA","url":"www.auberge-de-thoire.com"}
+,
+{"name":"AUBERGE LUCAS","city":"CARDROC","address":"16 rue de Broceliande            35190     CARDROC","url":"www.aubergelucas.com"}
+,
+{"name":"COMPTOIR DES VOYAGEURS","city":"LOCRONAN","address":"Place de l'�glise            29180     LOCRONAN","url":"www.comptoir-des-voyageurs.fr"}
+,
+{"name":"HOSTELLERIE D'ALSACE","city":"CERNAY","address":"61 rue Poincar�            68700     CERNAY","url":"www.hostellerie-alsace.fr"}
+,
+{"name":"LA GRANGE","city":"MARMANDE","address":"13 rue DE L'HIRONDELLE            47200     MARMANDE","url":"http://www.valdegaronne.com/spip.php?page=detail&lang=fr&id_article=19&idoffre=RESAQU047FS000KJ&idmodule=RES"}
+,
+{"name":"LA LAURENDIERE","city":"OLIVET","address":"68 avenue du Loiret            45160     OLIVET","url":"www.lalaurendiere.pagesperso-orange.fr"}
+,
+{"name":"LA PORTE BELLON","city":"SENLIS","address":"51 rue Bellon            60300     SENLIS","url":"www.portebellon.fr"}
+,
+{"name":"LA QUINTESSENCE","city":"LYON","address":"31 rue du B�t d'Argent            69001     LYON","url":"www.restaurant-laquintessence.fr"}
+,
+{"name":"LE NEPTUNE","city":"PAIMPOL","address":"23 quai Morand            22500     PAIMPOL","url":""}
+,
+{"name":"LE TUMULUS","city":"CARNAC","address":"Chemin du Tumulus            56340     CARNAC","url":"www.hotel-tumulus.com"}
+,
+{"name":"LES TERRASSES DE CLAIREFONTAINE","city":"CLAIREFONTAINE-EN-YVELINES","address":"1 RUE DE RAMBOUILLET            78120     CLAIREFONTAINE-EN-YVELINES CLAIREFONTAINE EN YVELINES","url":"www.lesterrassesdeclairefontaine.com"}
+,
+{"name":"L'OURSIN BLEU","city":"VILLEFRANCHE-SUR-MER","address":"11 quai Amiral Courbet            06230     VILLEFRANCHE-SUR-MER","url":"www.restaurant-oursin-bleu.com"}
+,
+{"name":"RESTAURANT � L'ANGE","city":"LIPSHEIM","address":"30 rue Jeanne d'Arc            67640     LIPSHEIM","url":"www.restaurantalange.com"}
+,
+{"name":"RESTAURANT CAZAUDEHORE","city":"SAINT-GERMAIN-EN-LAYE","address":"1, avenue Kennedy            78100     SAINT-GERMAIN-EN-LAYE","url":"www.cazaudehore.fr"}
+,
+{"name":"RESTAURANT CHRISTIAN QUENEL","city":"FLAGEY-ECH�ZEAUX","address":"12 Place de l'Eglise            21640     FLAGEY-ECH�ZEAUX","url":"http//www.restaurant-christianquenel.com"}
+,
+{"name":"RESTAURANT CUGINI","city":"JONAGE","address":"13 Place du G�n�ral de Gaulle            69330     JONAGE","url":"www.cugini-restaurant.fr"}
+,
+{"name":"RESTAURANT DE L'AGRICULTURE","city":"BARAQUEVILLE","address":"449 avenue du Centre            12160     BARAQUEVILLE","url":"www.l-agriculture.fr"}
+,
+{"name":"AMARYS  INTER HOTEL","city":"BIARRITZ","address":"Aeroport, de Parme, 24 Boulevard Marcel Dassault            64200     BIARRITZ","url":"www.amarys-biarritz.com"}
+,
+{"name":"AUBERGE DU MOULIN VERT","city":"PARIS","address":"33 rue du Moulin Vert            75014     PARIS","url":"www.aumoulinvert.com"}
+,
+{"name":"LA CORDE A LINGE","city":"STRASBOURG","address":"3 Place Benjamin Zix            67000     STRASBOURG","url":"www.lacordealinge.com"}
+,
+{"name":"LA PETITE AUBERGE","city":"MALICORNE-SUR-SARTHE","address":"5 Place Duguesclin            72270     MALICORNE-SUR-SARTHE","url":"www.petite-auberge-malicorne.fr"}
+,
+{"name":"LA TRUFFE DANS TOUS SES ETATS","city":"BOUC-BEL-AIR","address":"2010 avenue de la croix d'or            13320     BOUC-BEL-AIR","url":"www.yann-sandrini.fr"}
+,
+{"name":"RESTAURANT HIPPOPOTAMUS","city":"LE LAMENTIN","address":"Rez-de-chauss�e, Centre Commercial la Galleria            97232     LE LAMENTIN","url":"https://restaurant.hippopotamus.fr/restaurant/martinique-la-galleria/073"}
+,
+{"name":"SOLEIL ET JARDIN","city":"SOLAIZE","address":"44 rue de la republique            69360     SOLAIZE","url":"www.soleiletjardin.fr"}
+,
+{"name":"AUBERGE DE LA TOUR","city":"SENNENCE LES MACON","address":"604 rue VREMONTOISE            71000     SENNENCE LES MACON","url":"www.auberge-tour.fr"}
+,
+{"name":"BRASSERIE GEORGES","city":"LYON","address":"30 cours de Verdun            69002     LYON","url":"www.brasseriegeorges.com"}
+,
+{"name":"CAP O SAVEURS - IBIS","city":"CESSON-S�VIGN�","address":"Rue de Rennes            35510     CESSON-S�VIGN�","url":"www.restaurant-rennes-beaulieu.com"}
+,
+{"name":"LA TABLE DU BOURG","city":"LE BOURG-D'OISANS","address":"202 avenue Aristide Briand            38520     LE BOURG-D'OISANS","url":""}
+,
+{"name":"LE CLAIR DE LUNE","city":"LILLE","address":"50 rue de Gand            59000     LILLE","url":"www.restaurant-leclairdelune.fr"}
+,
+{"name":"LE LANGOUSTIER","city":"CAMARET-SUR-MER","address":"1 Esplanade JIM SEVELLEC            29570     CAMARET-SUR-MER","url":""}
+,
+{"name":"LE MOULIN DU GAPEAU","city":"BELGENTIER","address":"Place Edouard Granet            83210     BELGENTIER","url":"www.moulin-du-gapeau.com"}
+,
+{"name":"LE PETIT PRINCE","city":"CABRIS","address":"15 rue Fr�deric Mistral            06530     CABRIS","url":"https://www.lepetitprince-cabris.fr/"}
+,
+{"name":"LE ROBINSON","city":"SAINT-JEAN-DE-MONTS","address":"28 BD DU MAL LECLERC            85162     SAINT-JEAN-DE-MONTS","url":"www.hotel-lerobinson.com"}
+,
+{"name":"MAISON GAMBERT","city":"TAIN-L'HERMITAGE","address":"9, Route de Chantemerle            26600     TAIN-L'HERMITAGE","url":"www.maisongambert.com"}
+,
+{"name":"PIZZERIA RABAH ZAOUI","city":"CARCASSONNE","address":"124 avenue Franklin Roosevelt            11000     CARCASSONNE","url":"www.pizzeria-rabah-zaoui.com"}
+,
+{"name":"RESTAURANT LA PETITE MAISON","city":"SAINT-ALBAN-SUR-LIMAGNOLE","address":"5 avenue de Mende            48120     SAINT-ALBAN-SUR-LIMAGNOLE","url":"www.la-petite-maison.fr"}
+,
+{"name":"ROTISSERIE VAUBAN","city":"BESAN�ON","address":"30 bis rue Rivotte            25000     BESAN�ON","url":"www.rotisserie-vauban.fr"}
+,
+{"name":"A DEUX PAS D'ICI","city":"LE HAVRE","address":"69/73 rue Dauphine            76600     LE HAVRE","url":"www.adeuxpasdici.fr"}
+,
+{"name":"ACACIAS BELLEVUE","city":"VEYRIER-DU-LAC","address":"14 route Annecy            74290     VEYRIER-DU-LAC","url":"www.lac.annecy-acacias.com"}
+,
+{"name":"AUBERGE DU PETIT VAL","city":"VERNON","address":"25 avenue ILE DE France            27200     VERNON","url":"www.aubergedupetitval.com"}
+,
+{"name":"AUX ARMES D'ESTAING","city":"ESTAING","address":"1 Quai de l'amiral d'Estaing            12190     ESTAING","url":"www.estaing.net"}
+,
+{"name":"BEAUS�JOUR","city":"LE BEAGE","address":"Le Village            07630     LE BEAGE","url":"www.beausejouraubeage.com"}
+,
+{"name":"BISTROT VALOIS","city":"PARIS","address":"1 Bis Place Valois            75001     PARIS","url":"www.bistrot-valois.com"}
+,
+{"name":"BRASSERIE DU THEATRE","city":"AVIGNON","address":"36 cours Jean-Jaur�s            84000     AVIGNON","url":"www.brasseriedutheatre-avignon.fr"}
+,
+{"name":"CENTRAL HOTEL","city":"BORT-LES-ORGUES","address":"65 avenue de la gare            19110     BORT-LES-ORGUES","url":"www.centralhotelbort.com"}
+,
+{"name":"H�TEL LE BAILLIAGE","city":"SALERS","address":"Route du Puy Mary            15140     SALERS","url":"www.salers-hotel-bailliage.com"}
+,
+{"name":"HOTEL PARC VICTORIA","city":"SAINT-JEAN-DE-LUZ","address":"5 rue Cep�            64500     SAINT-JEAN-DE-LUZ","url":"www.parcvictoria.com"}
+,
+{"name":"JEHAN DE VALON","city":"ROCAMADOUR","address":"Cit� M�di�vale            46500     ROCAMADOUR","url":"www.beausite-rocamadour.com"}
+,
+{"name":"LA BRECHE DE ROLAND","city":"G�DRE","address":"Village            65120     G�DRE","url":"www.pyrenees-hotel-breche.com"}
+,
+{"name":"LA CARAVELLE","city":"BANDOL","address":"43 Quai Charles de Gaulle            83150     BANDOL","url":""}
+,
+{"name":"LA GRANGE AUX MARMOTTES","city":"VISCOS","address":"Au village            65120     VISCOS","url":"www.grangeauxmarmottes.com"}
+,
+{"name":"LA LANGOUSTE","city":"NICE","address":"7 avenue Georges Cl�menceau            06000     NICE","url":"www.lalangouste.fr"}
+,
+{"name":"LA MUSE ET LE ROZIER","city":"MOSTU�JOULS","address":"Gorges du tarn            12720     MOSTU�JOULS","url":"www.hotel-delamuse.fr"}
+,
+{"name":"LA SOURIS GOURMANDE","city":"TOURS","address":"100 rue Colbert            37000     TOURS","url":"www.lasourisgourmande.com"}
+,
+{"name":"LA TABLE DU MEUNIER","city":"CHENILL�-CHAMPTEUSSE","address":"Le Moulin    CHENILLE CHANGE        49220     CHENILL�-CHAMPTEUSSE","url":"www.domaine-moulin.fr"}
+,
+{"name":"LE CLOS","city":"CHILDRAC","address":"20 rue des Gours            63320     CHILDRAC","url":"www.restaurantduclos.fr"}
+,
+{"name":"LE CLOS DES SUREAUX","city":"SEUR","address":"2 route de Cellettes            41120     SEUR","url":"www.leclosdessureaux.com"}
+,
+{"name":"LE GOURMET","city":"BAPAUME","address":"10 rue de la gare            62450     BAPAUME","url":"www.le-gourmet.fr"}
+,
+{"name":"LE GRILL","city":"AJACCIO","address":"Port de plaisance Charles Ornano            20090     AJACCIO","url":"http://www.le-grill-ajaccio.fr/"}
+,
+{"name":"LE JEROBOAM","city":"PARIS","address":"72 rue Didot            75014     PARIS","url":"www.lejeroboam.fr"}
+,
+{"name":"LE MALAMOCK II","city":"�LE-TUDY","address":"9 Place de la cale            29980     �LE-TUDY","url":""}
+,
+{"name":"LE MARSALA","city":"LA FARL�DE","address":"585 rue Baron Dominique Larrey            83210     LA FARL�DE","url":"www.restaurant-marsala.fr"}
+,
+{"name":"LE MESTURET","city":"PARIS","address":"77, rue de Richelieu            75002     PARIS","url":"www.lemesturet.com"}
+,
+{"name":"LE RELAIS D'ALIGRE","city":"CH�TEAUNEUF","address":"25 rue J.MOULIN            28170     CH�TEAUNEUF","url":"www.relais.aligre.fr"}
+,
+{"name":"LE ROYAL","city":"SAINT-GERVAIS-LES-BAINS","address":"63 avenue du Mont Paccard            74170     SAINT-GERVAIS-LES-BAINS","url":"www.restaurant-leroyal.com"}
+,
+{"name":"L'ENTRECOTE","city":"NANTES","address":"2 rue du Cou�dic            44000     NANTES","url":"www.entrecote.fr"}
+,
+{"name":"LES CHAIS D'HAUSSMANN","city":"CESTAS","address":"61 Av. du Baron Haussmann            33610     CESTAS","url":"www.chais-haussmann.com"}
+,
+{"name":"MANOIR DE LA ROSERAIE","city":"GRIGNAN","address":"1 Chemin des Grands Pr�s            26230     GRIGNAN","url":"www.manoirdelaroseraie.com"}
+,
+{"name":"RESTAURANT FAMILY","city":"MEYRUEIS","address":"4 rue de lma Barri�re            48150     MEYRUEIS","url":"www.hotel-restaurant-family-48-12.com"}
+,
+{"name":"RESTAURANT DU COMMERCE","city":"RIEUPEYROUX","address":"60 rue de l'Hom            12240     RIEUPEYROUX","url":"www.hotel-commerce-aveyron.com"}
+,
+{"name":"HOSTELLERIE DE LA CHENEAUDI�RE","city":"COLROY-LA-ROCHE","address":"3, rue du Vieux Moulin            67420     COLROY-LA-ROCHE","url":"www.cheneaudiere.com"}
+,
+{"name":"L'ABSOLU","city":"AUROS","address":"2 rue Partarrieu            33124     AUROS","url":"www.restaurant-absolu.com"}
+,
+{"name":"HOSTELLERIE CEDRE","city":"BEAUNE","address":"10-12 boulevard Mar�chal Foch            21200     BEAUNE","url":"www.cedrebeaune.com"}
+,
+{"name":"LES EPICES CURIENS","city":"�COUVIEZ","address":"3bis Place de la Gare            55600     �COUVIEZ","url":"www.lesepicescuriens.com"}
+,
+{"name":"LES GIRELLES","city":"SAUSSET-LES-PINS","address":"15 rue Fr�deric Mistral            13960     SAUSSET-LES-PINS","url":"www.restaurantlesgirelles.fr"}
+,
+{"name":"RESTAURANT A LA 12","city":"DELME","address":"6 Place de la R�publique            57590     DELME","url":"www.ala12.fr"}
+,
+{"name":"U MINELLU","city":"CALVI","address":"Traverse de l'�glise            20260     CALVI","url":""}
+,
+{"name":"WISTUB BRENNER","city":"COLMAR","address":"1 rue DE TURENNE            68000     COLMAR","url":"www.wistub-brenner.fr"}
+,
+{"name":"AUBERGE DE LA RIVIERE","city":"VELLUIRE","address":"2 rue du port de la Fouarne            85770     VELLUIRE","url":"www.hotel-riviere-vendee.com"}
+,
+{"name":"AUBERGE DU PETIT BAYONNE","city":"BAYONNE","address":"23 rue des Cordeliers            64100     BAYONNE","url":"http://auberge-du-petit-bayonne.fr/"}
+,
+{"name":"AUBERGE SAINT THIBAULT","city":"SAINT-SATUR","address":"37 rue du capitaine Jacques Combes            18300     SAINT-SATUR","url":"www.aubergedesthibault.wordpress.com"}
+,
+{"name":"CH�TEAU BELLEVUE","city":"CAZAUBON","address":"19 rue Joseph CAPPIN            32150     CAZAUBON","url":"www.chateaubellevue.org"}
+,
+{"name":"CHEZ YVONNE","city":"STRASBOURG","address":"10 rue du sanglier            67000     STRASBOURG","url":"www.chez-yvonne.net"}
+,
+{"name":"COLOMBA","city":"BASTIA","address":"Quai nord du vieux port            20200     BASTIA","url":""}
+,
+{"name":"DOMAINE DU HAUT JARDIN","city":"REHAUPAL","address":"43 bis le village            88640     REHAUPAL","url":"www.domaineduhautjardin.com"}
+,
+{"name":"EMILE JOB","city":"MONTMERLE","address":"12 rue du Pont            01090     MONTMERLE","url":"www.hotelemilejob.com"}
+,
+{"name":"LA BUISSONNIERE","city":"BEAUVOIS-EN-CAMBR�SIS","address":"92 rue Victor Wattremez            59157     BEAUVOIS-EN-CAMBR�SIS","url":"www.la-buissonniere.newfr.net"}
+,
+{"name":"LA CHAINE D'OR","city":"LES ANDELYS","address":"25 rue grande            27700     LES ANDELYS","url":"www.hotel-lachainedor.com"}
+,
+{"name":"LA GRAVELETTE","city":"JOBOURG","address":"6 rue des Falaises            50440     JOBOURG","url":"http://www.lagravelette.com/index.html"}
+,
+{"name":"LA LAPINIERE","city":"COLOMBIERS","address":"RN 113 - route de Narbonne            34440     COLOMBIERS","url":"www.lalapiniere-restaurant-colombiers.fr"}
+,
+{"name":"LA PERGOLA","city":"L'AIGUILLON-SUR-MER","address":"320 Route de la Pointe            85460     L'AIGUILLON-SUR-MER","url":"www.restaurant-lapergola.com"}
+,
+{"name":"L'AMBROISIE","city":"VENCE","address":"37 avenue Alphonse Toreille            06140     VENCE","url":"www.ambroisie-vence.com"}
+,
+{"name":"L'ARMOIRE A DELICES","city":"CHERBOURG","address":"Place Chantereyne            50100     CHERBOURG","url":"www.larmoireadelices.fr"}
+,
+{"name":"L'AUBERGE CIGALOISE","city":"SAINT-HIPPOLYTE-DU-FORT","address":"3 route de Nimes            30170     SAINT-HIPPOLYTE-DU-FORT","url":"www.aubergecigaloise.fr"}
+,
+{"name":"LE BACO SAVEURS","city":"NANTES","address":"8 All�e Baco            44000     NANTES","url":"www.lebacosaveurs.fr"}
+,
+{"name":"LE MADELEINE","city":"VERNEUIL-SUR-AVRE","address":"206, rue de la Madeleine            27130     VERNEUIL-SUR-AVRE","url":"www.lemadeleine.fr"}
+,
+{"name":"LE MAGNY","city":"LES RICEYS","address":"39 rue DU GAL LECLERC            10340     LES RICEYS","url":"www.hotel-lemagny.com"}
+,
+{"name":"LE PATIO","city":"FONTVIEILLE","address":"117 rte du nord            13990     FONTVIEILLE","url":"www.lepatio-alpilles.com"}
+,
+{"name":"LE PETIT PRINCE DE PARIS","city":"PARIS","address":"12 rue Lanneau            75005     PARIS","url":"www.lepetitprincedeparis.fr"}
+,
+{"name":"LE RICHEBOURG�","city":"CREUTSWALD","address":"17 rue de la Houve            57150     CREUTSWALD","url":"www.aubergerichebourg.com"}
+,
+{"name":"LE RIVE GAUCHE","city":"JOIGNY","address":"Chemin du Port au Bois            89300     JOIGNY","url":"www.hotel-le-rive-gauche.fr"}
+,
+{"name":"LE VAL VERRE","city":"LACS/LA CH�TRE","address":"La Vicairerie - Route de Briantes            36400     LACS/LA CH�TRE","url":"www.campingvalvertenberry.com"}
+,
+{"name":"LES SOURCES DU MOULIN","city":"MIGR�","address":"20 route du Moulin            17330     MIGR�","url":"www.moulindemigre.com"}
+,
+{"name":"L'ESCAPADE","city":"B�DOIN","address":"83 rue du march� aux raisins            84410     B�DOIN","url":"www.lescapade.eu"}
+,
+{"name":"L'HELIANTHE","city":"TURQUANT","address":"Ruelle Antoine Cristal            49730     TURQUANT","url":"www.restaurant-helianthe.fr"}
+,
+{"name":"L'ILOT DE LA GODINE","city":"DREVANT","address":"8 route de la Groutte            18200     DREVANT","url":"www.lilotdelagodine.fr"}
+,
+{"name":"LOU PEBRE D'A�","city":"PLAN D'AUPS","address":"Quartier Sainte Madeleine            83640     PLAN D'AUPS","url":"www.loupedredai.com"}
+,
+{"name":"PETIT COURAULT","city":"PAMPROUX","address":"le petit courault            79800     PAMPROUX","url":"www.petitcourault.com"}
+,
+{"name":"A FLEUR DE SEL","city":"SAINTES-MARIES-DE-LA-MER","address":"43 avenue Fr�d�ric Mistral            13460     SAINTES-MARIES-DE-LA-MER","url":"www.camargue-restaurantafleurdesel.com"}
+,
+{"name":"LA BELLE VITA","city":"VAULX-EN-VELIN","address":"15 rue Emile Zola            69120     VAULX-EN-VELIN","url":""}
+,
+{"name":"LA COUPE D'OR","city":"LISIEUX","address":"49 rue Pont Mortain            14100     LISIEUX","url":"www.la-coupe-dor.com"}
+,
+{"name":"LA TABLE DE LEO","city":"SAINT-AVIT-S�NIEUR","address":"Le Bourg            24440     SAINT-AVIT-S�NIEUR","url":"www.latabledeleo.fr"}
+,
+{"name":"LA ZYGOTHEQUE","city":"PARIS","address":"15 bis rue de Tolbiac            75013     PARIS","url":""}
+,
+{"name":"LE RIBOULDINGUE","city":"BLAGNAC","address":"1 boulevard Firmin Pons            31700     BLAGNAC","url":"www.restaurant-leribouldingue.fr"}
+,
+{"name":"L'�PICURIEN","city":"ALBI","address":"42 Place Jean Jaur�s            81000     ALBI","url":"www.restaurantlepicurien.com"}
+,
+{"name":"LA CHASSAGNETTE","city":"ARLES","address":"Mas de la chassagnette ,Route de Sambuc            13200     ARLES","url":"www.chassagnette.fr"}
+,
+{"name":"LE BEAULIEU","city":"CHARBONNIERS LES BAINS","address":"19 avenue du GAL de Gaulle            69260     CHARBONNIERS LES BAINS","url":"www.hotel-le-beaulieu.com"}
+,
+{"name":"L� TABLE DU CHATEAU","city":"PUSY-ET-�PENOUX","address":"1 rue Ruffier d'Epenoux            70000     PUSY-ET-�PENOUX","url":"www.chateau-epenoux.com"}
+,
+{"name":"LES TRESOMS","city":"ANNECY","address":"15 bd de la Corniche            74000     ANNECY","url":"www.lestresoms.com"}
+,
+{"name":"PIZZA PLUS","city":"LE LAMENTIN","address":"Centre commercial La Gall�ria            97232     LE LAMENTIN","url":"www.pizzaplusmq.mobi"}
+,
+{"name":"TERRASSE SAINT CLAIR","city":"CALUIRE-ET-CUIRE","address":"2 grande rue de Saint Clair            69300     CALUIRE-ET-CUIRE","url":"www.terrasse.saint.clair.com"}
+,
+{"name":"BISTROT REPUBLIQUE","city":"DIJON","address":"16 Place DE LA REPUBLIQUE            21000     DIJON","url":"www.bistrot-republique.com"}
+,
+{"name":"CAFE VERANDA","city":"M�NERBES","address":"avenue Marcellin Poncet            84560     M�NERBES","url":"www.cafeveranda.com"}
+,
+{"name":"CR�PERIE SAINT SAUVEUR","city":"AURAY","address":"6 rue Saint-Sauveur Goustan            56400     AURAY","url":"www.creperie-saint-sauveur-auray.fr"}
+,
+{"name":"GASPARD DE LA NUIT","city":"PARIS","address":"6 rue des Tournelles            75004     PARIS","url":"www.legaspard.fr"}
+,
+{"name":"HOSTELLERIE DE LA BOURIANE","city":"GOURDON","address":"Place DU FOIRAIL            46300     GOURDON","url":"www.hotellabouriane.fr"}
+,
+{"name":"HOTEL DU PETIT KOHLBERG","city":"LUCELLE","address":"PETIT KOHLBERG            68480     LUCELLE","url":"www.petitkohlberg.com"}
+,
+{"name":"LA BISQUINE","city":"NOIRMOUTIER-EN-L'�LE","address":"30 A rue Port            85330     NOIRMOUTIER-EN-L'�LE","url":"www.restaurantlabisquine.com"}
+,
+{"name":"LA CUISINE D'HERV�","city":"MOULINS","address":"36 cours Jean Jaur�s            03000     MOULINS","url":"www.lacuisinedherve.fr"}
+,
+{"name":"LA PETITE MARMITE","city":"GAP","address":"79 rue Carnot            05000     GAP","url":"www.la-petite-marmite-gap.fr"}
+,
+{"name":"LA PIERREVUE","city":"SAINT-ROGATIEN","address":"2 Place de la mairie            17220     SAINT-ROGATIEN","url":"www.lapierrevue.com"}
+,
+{"name":"LA SAPINI�RE","city":"WISQUES","address":"12 route Setques            62219     WISQUES","url":"www.sapiniere.net"}
+,
+{"name":"L'ARRIVEE","city":"GRANVILLE","address":"110 avenue de la Lib�ration            50400     GRANVILLE","url":"www.hotelarrivee.com"}
+,
+{"name":"L'ARROSOIR","city":"SAINT-PALAIS-SUR-MER","address":"73 avenue de Pontaillac            17420     SAINT-PALAIS-SUR-MER","url":"www.restaurant-l-arrosoir.com"}
+,
+{"name":"L'AUBERGE DE MAITRE PIERRE","city":"SARREBOURG","address":"24 rue Saint Martin            57400     SARREBOURG","url":"https://www.aubergemaitrepierre.com/"}
+,
+{"name":"LE BISTROT DE LA PERLE","city":"G�RARDMER","address":"32 rue Charles de gaulle            88400     G�RARDMER","url":""}
+,
+{"name":"LE BLUE PEARL","city":"VILLENEUVE-LOUBET","address":"1523 avenue de la Batterie            06270     VILLENEUVE-LOUBET","url":"www.restaurant-bluepearl.com"}
+,
+{"name":"LE BLUES PIZZA L'AUTHENTIQUE","city":"VERDUN","address":"40 rue des Rouyers            55100     VERDUN","url":""}
+,
+{"name":"LE GRENIER � SEL","city":"MONTLU�ON","address":"8 rue Ste Anne            03100     MONTLU�ON","url":"www.legrenierasel.com"}
+,
+{"name":"LE MOULIN DE LA COUDRE","city":"VENOY","address":"2 rue des Gravottes            89290     VENOY","url":"www.moulindelacoudre.com"}
+,
+{"name":"LE RABELAIS","city":"SAINT-CHAMAS","address":"8 rue Auguste Fabre            13250     SAINT-CHAMAS","url":"www.restaurant-le-rabelais.com"}
+,
+{"name":"LE STEGER","city":"SOCX","address":"27 route de Saint Omer            59380     SOCX","url":"www.restaurant-lesteger.com"}
+,
+{"name":"LE TRIANON","city":"MAX�VILLE","address":"6 avenue de Metz            54320     MAX�VILLE","url":"www.restaurant-le-trianon.fr"}
+,
+{"name":"LE VIEUX LOGIS","city":"GU�RANDE","address":"1 Place de la Psalette            44350     GU�RANDE","url":"www.restaurantlevieuxlogis.com"}
+,
+{"name":"LES CAMELIAS","city":"BAGNOLES-DE-L'ORNE","address":"6 avenue du Ch�teau de Couterne            61140     BAGNOLES-DE-L'ORNE","url":"www.cameliashotel.com"}
+,
+{"name":"LES CORDERIES","city":"SAINT-VALERY-SUR-SOMME","address":"214 rue des moulins            80230     SAINT-VALERY-SUR-SOMME","url":"www.latabledescorderies.com"}
+,
+{"name":"LES NYMPHEAS","city":"SAINT-THIBAULT-DES-VIGNES","address":"1 place Claude Monet            77400     SAINT-THIBAULT-DES-VIGNES","url":"www.restaurant-lesnympheas.com"}
+,
+{"name":"L'ESTRAMBORD","city":"ARLES","address":"7 route de l'Abrivado Le Sambuc            13200     ARLES","url":"www.estrambord.fr"}
+,
+{"name":"L'EYRE 2 RIEN","city":"SALLES","address":"2 place Saint Pierre            33770     SALLES","url":"www.leyre2rien.restaurant"}
+,
+{"name":"TOUT VA BIEN \"CHEZ PARENTI\"","city":"PROPRIANO","address":"10 avenue Napol�on            20110     PROPRIANO","url":"www.chezparenti.fr"}
+,
+{"name":"H�TEL LE PROVENCE","city":"LANARCE","address":"Route Nationale 102            07660     LANARCE","url":"www.hotel-le-provence.com"}
+,
+{"name":"LA BRASSERIE DU FRAN�AIS","city":"BOURG-EN-BRESSE","address":"7 av Alsace Lorraine            01000     BOURG-EN-BRESSE","url":"www.brasserielefrancais.com"}
+,
+{"name":"LA FERME SAINTE GENEVIEVE","city":"DOMMARTEMONT","address":"2 Chemin du pain de sucre            54130     DOMMARTEMONT","url":"www.lafermesaintegenevieve.com"}
+,
+{"name":"LA ROQUEBRUNOISE","city":"ROQUEBRUNE-CAP-MARTIN","address":"12 avenue Raymond Poincar�            06190     ROQUEBRUNE-CAP-MARTIN","url":"www.laroquebrunoise.com"}
+,
+{"name":"LA TABLE DE FRED","city":"ISSENHEIM","address":"9 rue de Cernay            68500     ISSENHEIM","url":"www.restaurant-latabledefred.com"}
+,
+{"name":"LE SPLENDID","city":"LYON","address":"3 Place Jules Ferry            69006     LYON","url":"www.lespritblanc.com"}
+,
+{"name":"RESTAURANT BIRDY","city":"AIX-EN-PROVENCE","address":"775 avenue JR G. de la Lozi�re            13591     AIX-EN-PROVENCE","url":"http://www.hotel-birdy.com/"}
+,
+{"name":"AU JARDIN DES SAVEURS","city":"LAVENAY","address":"3 rue du val de braye            72310     LAVENAY PONT DE BRAYE","url":"www.au-jardin-des-saveurs.com"}
+,
+{"name":"AUBERGE COTE JARDIN","city":"CONILHAC-CORBI�RES","address":"7 avenue 113            11200     CONILHAC-CORBI�RES","url":"www.auberge-cotejardin.com"}
+,
+{"name":"AUBERGE DE L'ATRE","city":"QUARR�-LES-TOMBES","address":"LES LAVAULTS            89630     QUARR�-LES-TOMBES","url":"www.auberge-de-latre.com"}
+,
+{"name":"AUBERGE DE PONT CALLECK","city":"INGUINIEL","address":"LE GRAYO            56240     INGUINIEL","url":"www.auberge-pont-calleck.fr"}
+,
+{"name":"AUX MAISONS","city":"MAISONS-L�S-CHAOURCE","address":"11 rue des AFN            10210     MAISONS-L�S-CHAOURCE","url":"www.logis-aux-maisons.com"}
+,
+{"name":"CH�TEAU DES MONTHAIRONS","city":"LES MONTHAIRONS","address":"26 rue de Verdun            55320     LES MONTHAIRONS","url":"www.chateaudesmonthairons.fr"}
+,
+{"name":"CHEZ MARTI","city":"SAINT-GERMAIN","address":"60 route des c�pages            07170     SAINT-GERMAIN","url":"www.chezmarti.com"}
+,
+{"name":"DU COTE DE MARJON","city":"SOUCIEU EN JAREST","address":"Lieu Dit Le Marjon            69510     SOUCIEU EN JAREST","url":"www.restaurant-le-marjon.com"}
+,
+{"name":"H�TEL RESTAURANT BLANC","city":"MARIGNY-SAINT-MARCEL","address":"90 avenue de Sindelhorf            74150     MARIGNY-SAINT-MARCEL","url":"www.blanc-hotel-restaurant.fr"}
+,
+{"name":"LA FLIBUSTE","city":"VILLENEUVE-LOUBET","address":"Port Marina Baie des Anges            06270     VILLENEUVE-LOUBET PORT MARINA BAIE DES ANGES","url":"http://restaurantlaflibuste.fr"}
+,
+{"name":"LA GRANDE BOUTEILLE","city":"CAEN","address":"11 rue Caponi�re            14000     CAEN","url":"www.lagrandebouteille.wixsite.com/bistrotgb"}
+,
+{"name":"LA TABLE DU 5","city":"BARR","address":"11 Place de l'Hotel de ville            67140     BARR","url":"www.5terres-hotel.fr"}
+,
+{"name":"L'ABBAYE DE VILLENEUVE","city":"LES SORINIERES","address":"Route de la Roche sur Yon            44840     LES SORINIERES","url":"www.abbayedevilleneuve.com"}
+,
+{"name":"L'ART DES METS","city":"B�THUNE","address":"726 bd Poincar�            62400     B�THUNE","url":"www.art-des-mets.com"}
+,
+{"name":"LE BINJAMIN","city":"DISSAY","address":"1004 RD 910            86130     DISSAY","url":"www.lebinjamin.fr"}
+,
+{"name":"LE FLEURY","city":"BEAUNE","address":"15 Place Fleury            21200     BEAUNE","url":"www.restaurant-beaune.com"}
+,
+{"name":"LE GRAND H�TEL & SPA","city":"G�RARDMER","address":"Place du Tilleul - 17 rue Charles de Gaulle            88400     G�RARDMER","url":"www.grandhotel-gerardmer.com"}
+,
+{"name":"LE LOUIS XVI","city":"PARIS","address":"47 rue des Mathrurins            75008     PARIS","url":"https://lelouis16-paris.fr"}
+,
+{"name":"LE NEPTUNE","city":"LE CROISIC","address":"11 avenue de port Val            44490     LE CROISIC","url":"www.restaurant-leneptune.fr"}
+,
+{"name":"LE PANORAMIQUE","city":"LA PERNELLE","address":"1 village de l'Eglise            50630     LA PERNELLE","url":"www.le-panoramique.fr"}
+,
+{"name":"Le ROCK","city":"HYERES LES PALMIERS","address":"34 Avenue Edith Cawell            83400     HYERES LES PALMIERS","url":"https://www.restaurant-lerock.com/hyeres/"}
+,
+{"name":"LE SIRE DE JOUX","city":"MONTBENOIE","address":"4 rue de l'abbaye            25650     MONTBENOIE","url":"www.lesiredejoux.com"}
+,
+{"name":"L'ENTREC�TE","city":"TOULOUSE","address":"15 boulevard de Strasbourg            31000     TOULOUSE","url":"www.entrecote.fr"}
+,
+{"name":"LES ORANGERIES","city":"LUSSAC-LES-CH�TEAUX","address":"12 av Doct Dupont            86320     LUSSAC-LES-CH�TEAUX","url":"www.lesorangeries.fr"}
+,
+{"name":"LES SENS DE LA TOUPINE","city":"MIRAMAS LE VIEUX","address":"Rue Mireille            13140     MIRAMAS LE VIEUX","url":"www.les-sens-de-la-toupine-restaurant-miramas.com"}
+,
+{"name":"L'INSTANT GOURMET","city":"VALBONNE","address":"11 rue Henri Barbara            06560     VALBONNE","url":""}
+,
+{"name":"RESTAURANT CLEMENTINE","city":"PARIS","address":"5 rue Saint Marc            75002     PARIS","url":"www.restaurantclementine.com"}
+,
+{"name":"TAHITI BEACH CAFE","city":"AJACCIO","address":"Tahiti plage            20090     AJACCIO","url":"www.tahiti-beach-cafe.fr"}
+,
+{"name":"AU VIEUX PRESSOIR","city":"WESTHALEN","address":"Domaine du Bollenberg            68250     WESTHALEN","url":"www.bollenberg.com"}
+,
+{"name":"AUB DU CHEMIN DE FER","city":"LANESTER","address":"2 rue Marcel Sembat            56600     LANESTER","url":"www.aubergeduchemindefer.fr"}
+,
+{"name":"CH�TEAU DE GILLY","city":"GILLY-L�S-C�TEAUX","address":"2 Place du ch�teau            21640     GILLY-L�S-C�TEAUX","url":"www.chateau-gilly.com"}
+,
+{"name":"HOTEL LE WARWICK","city":"PARIS","address":"5 rue de Berri            75008     PARIS","url":"www.warwickhotels.com"}
+,
+{"name":"KOBUS RESTAURANT & LOUNGE","city":"MARLENHEIM","address":"2 route du Kronthal            67520     MARLENHEIM","url":"www.kobus-marlenheim.fr"}
+,
+{"name":"LA BASTIDE ODEON","city":"PARIS","address":"7 rue Corneille            75006     PARIS","url":"www.bastideodeon.com"}
+,
+{"name":"LA BONNE FRANQUETTE","city":"JANVRY","address":"1 rue des Marchais            91640     JANVRY","url":"www.bonnefranquette.fr"}
+,
+{"name":"LA SCENE THELEME","city":"PARIS","address":"18 rue Troyon            75017     PARIS","url":"www.lascenetheleme.fr"}
+,
+{"name":"L'AMBASSADE","city":"B�ZIERS","address":"22 Bld de Verdun            34500     B�ZIERS","url":"www.restaurant-lambassade.com"}
+,
+{"name":"L'ATELIER DE MARC MEURIN","city":"LENS","address":"97 rue Paul Bert            62300     LENS","url":"www.atelierdemarcmeurin.fr"}
+,
+{"name":"LE CLOS DE VALLOMBREUSE","city":"DOUARNENEZ","address":"7 rue Estienne d'Orves            29100     DOUARNENEZ","url":"www.closvallombreuse.com"}
+,
+{"name":"LE MANOIR DALMORE","city":"N�VEZ","address":"7 Corniche de Pouldon            29920     N�VEZ","url":"www.manoirdalmore.com"}
+,
+{"name":"LE SANSOT","city":"TOURRETTES-SUR-LOUP","address":"700 route de Grasse            06140     TOURRETTES-SUR-LOUP","url":"www.lesansot.com"}
+,
+{"name":"LES BOISSIERES","city":"BIOULE","address":"708 RTE DE CAUSSADE            82800     BIOULE","url":"www.lesboissieres.com"}
+,
+{"name":"LES SECRETS DES GRANDS EXPRESS","city":"GEISPOLSHEIM","address":"rue du Pont du P�age            67118     GEISPOLSHEIM","url":"www.secrets-grands-express.fr"}
+,
+{"name":"L'IMAGE SAINTE ANNE","city":"VANNES","address":"8 Place DE LA LIBERATION            56000     VANNES","url":"www.kyriad-vannes.fr"}
+,
+{"name":"RESTAURANT LE CHABICHOU","city":"COURCHEVEL","address":"Courchevel Saint Bon            73120     COURCHEVEL","url":"www.chabichou-courchevel.com"}
+,
+{"name":"RESTAURANT LE VIVIER","city":"PLOEMEUR","address":"9 rue Beg er Vir Lomener            56270     PLOEMEUR","url":"www.levivier-lomener.com"}
+,
+{"name":"A LA VILLE DE LYON","city":"METZ","address":"9 rue DES PIQUES            57000     METZ","url":"www.alavilledelyon.com"}
+,
+{"name":"ANSE MARCEL BEACH","city":"ST MARTIN","address":"26 rue de Lonvilliers            97150     ST MARTIN","url":"www.ansemarcelbeach.com"}
+,
+{"name":"AU SOLEIL","city":"WETTOLSHEIM","address":"20 rue Sainte Gertrude            68920     WETTOLSHEIM","url":"www.hotel-restaurant-au-soleil.com"}
+,
+{"name":"AUBERGE DE LA FORGE","city":"CAULI�RES","address":"14 rue 46�me BCA            80290     CAULI�RES","url":"www.auberge-dela-forge.com"}
+,
+{"name":"AUBERGE DE LA LOIRE","city":"MONTJEAN-SUR-LOIRE","address":"2 Quai Mariniers            49570     MONTJEAN-SUR-LOIRE","url":"www.aubergedelaloire.com"}
+,
+{"name":"AUBERGE DU BEL AIR","city":"ABRESCHUILLER","address":"279 Route du Donon            57560     ABRESCHUILLER","url":"www.auberge-bel-air.com"}
+,
+{"name":"BEST WESTERN MONTFLEURI","city":"SAINTE-MAXIME","address":"3 avenue de Montfleuri            83120     SAINTE-MAXIME","url":"www.montfleuri.com"}
+,
+{"name":"CAF� GOURMAND","city":"DIJON","address":"9 Place de la Lib�ration            21000     DIJON","url":"www.allocafegourmand.com"}
+,
+{"name":"CHEZ NOUS","city":"ST GILLES-LES-BAINS","address":"122 rue du G�n�ral de Gaulle            97434     ST GILLES-LES-BAINS","url":""}
+,
+{"name":"DOMAINE LA GRANGE DE COND�","city":"COND�-NORTHEN","address":"41 rue des 2 Nieds            57220     COND�-NORTHEN","url":"www.lagrandedeconde.com"}
+,
+{"name":"HOSTELLERIE LA FONTAINE","city":"ST PAUL DE VENCE","address":"10 mont�e de la Castre            06570     ST PAUL DE VENCE","url":"www.hlf-saintpaul.fr"}
+,
+{"name":"HOTEL DE LA GARE","city":"AMBERT","address":"15 avenue de la gare            63600     AMBERT","url":"www.hotelambert.fr"}
+,
+{"name":"LA BRISE","city":"CARRY-LE-ROUET","address":"Quai Vayssiere            13620     CARRY-LE-ROUET","url":"www.restaurant-labrise.com"}
+,
+{"name":"LA CORDERIE","city":"SAINT-MALO","address":"Chemin de la corderie            35400     SAINT-MALO","url":"www.lacorderie-restaurant.com"}
+,
+{"name":"LA LITTORINE","city":"BANYULS-SUR-MER","address":"Plage des Elmes            66650     BANYULS-SUR-MER","url":"www.hotel-des-elmes.com"}
+,
+{"name":"LA R�SERVE","city":"LE BOSC","address":"Ham cartels du Bosc            34700     LE BOSC","url":"www.lareservedubosc.com"}
+,
+{"name":"LA TABLE DE NICOLAS","city":"BOULOGNE-SUR-MER","address":"26 Place Dalton            62200     BOULOGNE-SUR-MER","url":"www.latabledenicolas.com "}
+,
+{"name":"LA TABLE DES SAISONS","city":"ANDUZE","address":"3 rue du plan de Brie            30140     ANDUZE","url":""}
+,
+{"name":"LE BISTROT DU CHATELET","city":"BOURG-ARGENTAL","address":"10 Place DE LA LIBERTE            42220     BOURG-ARGENTAL","url":"www.bistrotduchatelet.com"}
+,
+{"name":"LE GOURMANDIN","city":"SIERENTZ","address":"54 rue Poincar�            68510     SIERENTZ","url":"www.restaurantlegourmandinsierent.com"}
+,
+{"name":"LE JARDIN","city":"LE TOUQUET","address":"Place de l'Hermitage            62520     LE TOUQUET","url":"www.restaurant-lejardin.net"}
+,
+{"name":"LE LION D'OR�","city":"AMBOISE","address":"17 quai Charles Guinot            37400     AMBOISE","url":"www.leliondor-amboise.com"}
+,
+{"name":"LE QUAI","city":"AMIENS","address":"13-15 QUAI BELU            80000     AMIENS","url":"www.lequai.c.la"}
+,
+{"name":"LE SUD","city":"PAU","address":"44 rue Alfred Nobel            64000     PAU","url":"www.lesudpau.com"}
+,
+{"name":"LE VIEUX BISTROT","city":"CABRI�RES-D'AVIGNON","address":"Grand rue            84220     CABRI�RES-D'AVIGNON","url":"www.vieuxbistrot.com"}
+,
+{"name":"LES JARDINS DE VILLENNES","city":"VILLENNES-SUR-SEINE","address":"55 rue du Port            78670     VILLENNES-SUR-SEINE","url":"www.lesjardinsdevillennes.com"}
+,
+{"name":"L'O A LA BOUCHE","city":"BESAN�ON","address":"9 rue du Lyc�e            25000     BESAN�ON","url":"www.lo-restaurant.fr"}
+,
+{"name":"RESTAURANT DORMY HOUSE","city":"�TRETAT","address":"Route du Havre BP 2            76790     �TRETAT","url":"www.dormy-house.com"}
+,
+{"name":"RESTAURANT LA TRINQUETTE","city":"GRANDCAMP MAIZY","address":"7 rue de Joncal            14450     GRANDCAMP MAIZY","url":"www.restaurant-la-trinquette.com"}
+,
+{"name":"RESTAURANT OH BOUCHOUX","city":"SAINT-ANDR�-LE-BOUCHOUX","address":"15 route de Saint Paul            01240     SAINT-ANDR�-LE-BOUCHOUX","url":"www.oh-bouchoux.fr"}
+,
+{"name":"SUD HOTEL","city":"HUTTENHEIM","address":"73 rue du 1er decembre            67230     HUTTENHEIM","url":"www.sud-hotel.fr"}
+,
+{"name":"THE PLACE TO","city":"PARIS","address":"47 avenue de Wagram            75017     PARIS","url":"www.thePlaceto.paris"}
+,
+{"name":"BARS ET GOURMETS","city":"CONDRIEU","address":"5 place du march� aux fruits            69420     CONDRIEU","url":"https://www.facebook.com/www.baretgourmet.fr"}
+,
+{"name":"BISTROT BERTHET","city":"LYON","address":"10 rue du Sergent Michel Berthet            69009     LYON","url":"www.bistrot-berthet.fr"}
+,
+{"name":"LA BELLE ETOILE","city":"NIORT","address":"115 quai maurice METAYER            79000     NIORT","url":"www.la-belle-etoile.fr"}
+,
+{"name":"LA CLOSERIE DES ROSES","city":"LOIREAUXENCE","address":"455 La Haute Meilleraie - VARADES            44370     LOIREAUXENCE","url":"www.lacloseriedesroses.com"}
+,
+{"name":"L'ARCHELLE","city":"PARIS","address":"83 avenue de S�gur            75015     PARIS","url":""}
+,
+{"name":"LE CESAR","city":"PORT FREJUS","address":"18 Place Dei Civadeu            83600     PORT FREJUS","url":"www.restaurantlecesar.com"}
+,
+{"name":"LE CLOS DU CELLIER","city":"LE CELLIER","address":"1 Place du memorial            44850     LE CELLIER","url":"www.restaurantleclosducellier.fr"}
+,
+{"name":"LE PRADO","city":"JUSSAC","address":"16 avenue de la Prade            15250     JUSSAC","url":"www.hotel-le-prado.com"}
+,
+{"name":"LES QUATRE SALINES","city":"ROZ-SUR-COUESNON","address":"3 rue des Quatre Salines            35610     ROZ-SUR-COUESNON","url":"www.restaurant-mont-saint-michel.com"}
+,
+{"name":"MAISON TIREL GUERIN","city":"SAINT-M�LOIR-DES-ONDES","address":"1 le Limonay            35350     SAINT-M�LOIR-DES-ONDES","url":"www.tirel-guerin.com"}
+,
+{"name":"RESTAURANT DE LA POSTE","city":"SAINT-L�ON-SUR-V�Z�RE","address":"Le bourg            24290     SAINT-L�ON-SUR-V�Z�RE","url":""}
+,
+{"name":"RESTAURANT LA TOUR GALANTE","city":"SAULT-DE-NAVAILLES","address":"699 rue de France            64300     SAULT-DE-NAVAILLES","url":"www.latourgalante.com"}
+,
+{"name":"ASSIETTE DU MARCH�","city":"LILLE","address":"61 rue de la monnaie            59000     LILLE","url":"www.assiettedumarche.com"}
+,
+{"name":"AUBERGE DU VIEUX MULHOUSE","city":"MULHOUSE","address":"8 rue des Archives            68100     MULHOUSE","url":"www.restaurant-auvieuxmulhouse.com"}
+,
+{"name":"BAR A HUITRES MONTPARNASSE","city":"PARIS","address":"112 Bd de Montparnasse            75014     PARIS","url":"www.lebarahuitres.fr"}
+,
+{"name":"GEORGETTE","city":"PARIS","address":"44 rue d'Assas            75006     PARIS","url":"www.restaurant-georgette.fr"}
+,
+{"name":"GRAND BISTRO 17�me","city":"PARIS","address":"108 avenue de Villiers            75017     PARIS","url":"www.legrandbistro.fr"}
+,
+{"name":"GRAND BISTRO MAILLOT SAINT FERDINAND","city":"PARIS","address":"275 Bd Pereire            75017     PARIS","url":"www.legrandbistro.fr"}
+,
+{"name":"LA GALLOTIERE RESTAURANT","city":"CH�TEAU-TH�BAUD","address":"Lieu-dit La Gailloti�re            44690     CH�TEAU-TH�BAUD","url":"www.auberge-la-gaillotiere.fr"}
+,
+{"name":"LA TABLE DE LA FONTAINE","city":"AUTRANS MEAUDRE EN VERCORS","address":"Le village            38112     AUTRANS MEAUDRE EN VERCORS","url":"www.tabledelafontaine.fr"}
+,
+{"name":"LE GRAND JARDIN","city":"BAUME-LES-MESSIEURS","address":"6 Place Guillaume de Poupet            39210     BAUME-LES-MESSIEURS","url":"www.legrandjardin.fr"}
+,
+{"name":"O PERVENCHES","city":"CHAMB�RY","address":"600 chemin des Charmettes            73000     CHAMB�RY","url":"www.opervenches73.fr"}
+,
+{"name":"RESTAURANT LE SAINT-JULIEN","city":"SAINT-JULIEN-BEYCHEVELLE","address":"11 rue de Saint-Julien            33250     SAINT-JULIEN-BEYCHEVELLE","url":"www.restaurant-le-saint-julien.com"}
+,
+{"name":"DE BALAJAN","city":"VIC-LA-GARDIOLE","address":"41 route de Montpellier            34110     VIC-LA-GARDIOLE","url":"www.hotel-balajan.com"}
+,
+{"name":"LA CABANE DU FIER","city":"ARS-EN-R�","address":"Le Martray            17590     ARS-EN-R�","url":""}
+,
+{"name":"L'ARAUSIO","city":"ORANGE","address":"9 rue du Mazeau            84100     ORANGE","url":"www.larausio.fr"}
+,
+{"name":"LE BHV","city":"BREST","address":"1 rue Jean Jaur�s            29200     BREST","url":"www.bhv-brest.com"}
+,
+{"name":"LE BILBOQUET","city":"ANNECY","address":"14 faubourg Sainte-Claire            74000     ANNECY","url":"www.restaurantlebilboquet.fr"}
+,
+{"name":"LE BISTROT A GILLES","city":"NANTES","address":"11 bis rue de la Bastille            44000     NANTES","url":"www.lebistrotagilles.fr"}
+,
+{"name":"LE MAS DES OLIVIERS","city":"SAINT-HERBLAIN","address":"Rue du Moulin de la Rousseliere            44800     SAINT-HERBLAIN","url":"www.lemas-desoliviers.fr"}
+,
+{"name":"L'ECHO DES MONTAGNES","city":"ARMOY","address":"3516 CHEF-LIEU            74200     ARMOY","url":"www.echodesmontagnes.fr"}
+,
+{"name":"LA CANOP�E","city":"M�RIGNIES","address":"M�rignies Golf - 1245 avenue du Golf            59710     M�RIGNIES","url":"www.merigniesgolf.com/canopee"}
+,
+{"name":"L'HOMME TRANQUILLE","city":"LE MANS","address":"15 boulevard Robert Jarry            72000     LE MANS","url":"https://www.facebook.com/lhommetranquillelemans/"}
+,
+{"name":"RESTAURANT DE LA POSTE","city":"TENCE","address":"12 rue de saint agr�ve            43190     TENCE","url":"www.hotel-poste-tence.com"}
+,
+{"name":"Groupe El�gance H�tels","city":"LE BOIS-PLAGE-EN-R�","address":"57 avenue du Pas des Boeufs            17580     LE BOIS-PLAGE-EN-R�","url":"www.hotel-iledere.com"}
+,
+{"name":"RESTAURANT STEPHANE MARTIN","city":"PARIS","address":"67 rue des Entrepreneurs            75015     PARIS","url":"www.stephanemartin.com"}
+,
+{"name":"AUBERGE DE SAVOIE","city":"ANNECY","address":"1 Place ST FRANCOIS DE SALES            74000     ANNECY","url":"www.auberge-de-savoie.fr"}
+,
+{"name":"CH�TEAU DE SULLY","city":"SULLY","address":"Route de port en bessin            14400     SULLY","url":"www.chateau-de-sully.com"}
+,
+{"name":"L'ARCOMBELLE","city":"MONTIGNY-LE-ROI","address":"25 avenue de Lierneux            52140     MONTIGNY-LE-ROI","url":"www.hotel-arcombelle.com"}
+,
+{"name":"L'AUBERGE CAMPAGNARDE","city":"�VOSGES","address":"4 Place jean marie Jacquemet            01230     �VOSGES","url":"www.auberge-campagnarde.com"}
+,
+{"name":"LE CHEVAL NOIR","city":"HOENHEIM","address":"38 rue de la R�publique            67800     HOENHEIM","url":"www.au-cheval-noir.com"}
+,
+{"name":"LE MAS DU LANGOUSTIER","city":"ILE DE PORQUEROLLES","address":"Chemin du Langoustier             83400     ILE DE PORQUEROLLES","url":"www.langoustier.com"}
+,
+{"name":"","city":"","address":"","url":""}
+,
+{"name":"L'ENTRECOTE","city":"LYON","address":"10 rue de la R�publique            69001     LYON","url":"www.entrecote.fr"}
+,
+{"name":"LES 3 PILIERS","city":"LE BOUPERE","address":"1 rue du G�n�ral de Gaulle            85510     LE BOUPERE","url":"www.les-3-piliers.com"}
+,
+{"name":"RESTAURANT DU CLOITRE","city":"BOURBON-LANCY","address":"1 PARC THERMAL            71140     BOURBON-LANCY","url":"www.restaurantducloitre.fr"}
+,
+{"name":"CKS LOUNGE","city":"LYON","address":"42 cours Suchet            69002     LYON","url":"www.gotmilk.fr"}
+,
+{"name":"AU CHEVAL BLANC","city":"FELDBACH","address":"1 rue de Bisel            68640     FELDBACH","url":"www.cheval-blanc-feldbach.fr"}
+,
+{"name":"AU CLOCHER","city":"BOURBOURG","address":"4 Place de l'H�tel de Ville            59630     BOURBOURG","url":"www.restaurantauclocher.fr"}
+,
+{"name":"AU COQ BLANC","city":"STRASBOURG","address":"9 rue M�lanie            67000     STRASBOURG","url":"www.au-coq-blanc.fr"}
+,
+{"name":"AUBERGE DU OBERSOLBERG","city":"ESCHBACH-AU-VAL","address":"117  Obersolberg            68140     ESCHBACH-AU-VAL","url":"www.obersolberg.fr"}
+,
+{"name":"CH�TEAU DE GERMIGNEY","city":"PORT-LESNEY","address":"31 rue Edgar Faure            39600     PORT-LESNEY","url":"www.chateaudegermigney.com"}
+,
+{"name":"DOLCEMARE","city":"PROPRIANO","address":"14  avenue Napoleon            20110     PROPRIANO","url":""}
+,
+{"name":"DOMAINE DE LA TUILERIE","city":"NIORT BESSINES","address":"98 route de la Rochelle            79000     NIORT BESSINES","url":"www.restaurant-la-tuilerie.com"}
+,
+{"name":"LA MANGEOIRE","city":"SALLANCHES","address":"295 route du Fayet            74700     SALLANCHES","url":"www.restaurant-la-mangeoire.com"}
+,
+{"name":"LA TETRADE COTE PORT","city":"CAPBRETON","address":"85 avenue Georges Pompidou            40130     CAPBRETON","url":"www.latetrade-cote-port.fr"}
+,
+{"name":"L'AMBATA","city":"PROPRIANO","address":"22  avenue Napol�on            20110     PROPRIANO","url":""}
+,
+{"name":"LE BENGY","city":"VARENNES-VAUZELLES","address":"25 route de Paris            58640     VARENNES-VAUZELLES","url":"www.le-bengy-restaurant.com"}
+,
+{"name":"LE FLOREAL","city":"LUN�VILLE","address":"1 Place L�opold            54300     LUN�VILLE","url":"www.lefloreal54.com"}
+,
+{"name":"LE JARROUSSET","city":"VIRARGUES","address":"Les Barraires            15300     VIRARGUES","url":"www.restaurant-le-jarrousset.com"}
+,
+{"name":"LE MILLESIME","city":"NICE","address":"17 rue Smolett            06300     NICE","url":"www.restaurant-millesime.fr"}
+,
+{"name":"LE MOULIN DES QUATRE SAISONS�","city":"LA FLECHE","address":"rue Gallieni            72200     LA FLECHE","url":"www.moulindesquatresaisons.com"}
+,
+{"name":"LE PAVE DE SARS","city":"SARS-POTERIES","address":"126 rue jean jaures            59216     SARS-POTERIES","url":"www.restaurantlepave.fr"}
+,
+{"name":"","city":"","address":"","url":""}
+,
+{"name":"LE TRANSAT","city":"SAINT-NAZAIRE","address":"60 boulevard du Pr�sident Wilson            44600     SAINT-NAZAIRE","url":"le-transat-bar.business.site"}
+,
+{"name":"LES BRISANTS","city":"BRETIGNOLLES-SUR-MER","address":"63 avenue de la Grande roche            85470     BRETIGNOLLES-SUR-MER","url":"www.lesbrisants.com"}
+,
+{"name":"LES FUCHSIAS","city":"SAINT-VAAST-LA-HOUGUE","address":"20 rue Mar�chal Foch            50550     SAINT-VAAST-LA-HOUGUE","url":"www.hotel-fuchsias.com"}
+,
+{"name":"LES JARDINS DE ST LAURENT","city":"SAINT-LAURENT-BLANGY","address":"1 rue Laurent gers            62223     SAINT-LAURENT-BLANGY","url":"www.jardins-de-saint-laurent.com"}
+,
+{"name":"LES VOILES D'OR","city":"DIEPPE","address":"2 chemin de la falaise            76200     DIEPPE","url":"www.lesvoilesdor.fr"}
+,
+{"name":"L'�TREMENT","city":"SCIEZ SUR LEMAN","address":"770 avenue de Bonnatrait            74140     SCIEZ SUR LEMAN","url":"www.lotrement.com"}
+,
+{"name":"AU P'TIT MUNSTER","city":"MUNSTER","address":"30 rue de la R�publique            68140     MUNSTER","url":""}
+,
+{"name":"AUBERGE DE LA TOUR","city":"GIVET","address":"6 Quai des fours            08600     GIVET","url":"www.auberge-de-la-tour.net"}
+,
+{"name":"AUBERGE DU BON LABOUREUR","city":"CHENONCEAUX","address":"6 rue du bretonneau            37150     CHENONCEAUX","url":"www.bonlaboureur.com"}
+,
+{"name":"BISTROT DE LA GARE","city":"CHOLET","address":"15 Place DU 77EME RI            49300     CHOLET","url":"www.bistrotdelagare.fr"}
+,
+{"name":"HOTEL BERGERET SPORT","city":"HENDAYE-PLAGE","address":"4 rue des Cl�matites            64700     HENDAYE-PLAGE","url":"www.hotel-bergeret-sport.com�"}
+,
+{"name":"HOTEL DE LA POSTE","city":"PONTGIBAUD","address":"Place de la R�publique            63230     PONTGIBAUD","url":"www.hoteldelaposte-pontgibaud.com"}
+,
+{"name":"JILALI B","city":"TH�OULE-SUR-MER","address":"16 avenue du Trayas            06590     TH�OULE-SUR-MER","url":"www.jilalib.com"}
+,
+{"name":"LA COULEUVRINE","city":"SARLAT-LA-CAN�DA","address":"1 Place de la bouquerie            24200     SARLAT-LA-CAN�DA","url":"www.la-couleuvrine.com"}
+,
+{"name":"LA PAUSE","city":"VAL THORENS","address":"Le Portillo            73440     VAL THORENS","url":"www.leportillo.com"}
+,
+{"name":"LA PIZZERIA","city":"SAINT-DI�-DES-VOSGES","address":"8 quai du Mar�chal de Lattre de Tassigny            88100     SAINT-DI�-DES-VOSGES","url":"www.restaurant-veneto-pizzeria-stdiedesvosges.fr"}
+,
+{"name":"LA TABLE DU DONJON","city":"OINGT","address":"64 petite rue du march�            69620     OINGT","url":"www.latabledudonjon.fr"}
+,
+{"name":"LA VIGNA","city":"NICE","address":"1 Quai des Deux Emmanuel            06300     NICE","url":"www.restaurant-la-vigna.com"}
+,
+{"name":"L'ACHEDA","city":"BONIFACIO","address":"Cavallo Morto            20169     BONIFACIO","url":"www.acheda-hotel.com"}
+,
+{"name":"L'AUBERGE DU LAC","city":"SAINT-MARCEL-L�S-ANNONAY","address":"LE TERNAY            07100     SAINT-MARCEL-L�S-ANNONAY","url":"www.aubergedulac.fr"}
+,
+{"name":"LE BEC AU CAUCHOIS","city":"VALMONT","address":"rue Andr� Fiquet            76540     VALMONT","url":"www.lebecaucauchois.com"}
+,
+{"name":"LE JARDIN","city":"ISSOIRE","address":"18 boulevard Kennedy            63500     ISSOIRE","url":"www.hotel-pariou.com"}
+,
+{"name":"LE PATIO","city":"LANDIVISIAU","address":"19 rue du general de Gaulle            29400     LANDIVISIAU","url":"www.lepatio29.fr"}
+,
+{"name":"LE PESCADOR","city":"L'ISLE-SUR-LA-SORGUE","address":"1344 avenue voltaire Garcin            84800     L'ISLE-SUR-LA-SORGUE","url":"www.lepescador.com"}
+,
+{"name":"LE RABELAIS","city":"AL�S","address":"13 Place Henri Barbusse            30100     AL�S","url":""}
+,
+{"name":"LE SAINT GERMAIN","city":"P�ZENAS","address":"6 avenue Paul Vidal de la Blache            34120     P�ZENAS","url":"www.hotel-saintgermain.com"}
+,
+{"name":"LES HALLES","city":"CAP AGDE","address":"45 avenue des sergents            34300     CAP AGDE","url":"www.leshallesauxpoissons.com"}
+,
+{"name":"LES PITCHOUNS","city":"MONTARGIS","address":"6 rue du devidet            45200     MONTARGIS","url":"www.restaurant-lespitchouns.fr"}
+,
+{"name":"AUBERGE DES 4 VENTS","city":"LAXOU","address":"23/25 avenue de la r�sistance            54520     LAXOU","url":"www.lauberge.fr"}
+,
+{"name":"CH�TEAU DU COLOMBIER","city":"SAINT-MALO","address":"Lieu dit le Colombier            35400     SAINT-MALO","url":"www.saintmalo-hotelcolombier.com"}
+,
+{"name":"LA COTE ET L'ARETE","city":"TOULOUSE","address":"25 Bd de Strasbourg            31000     TOULOUSE","url":"www.lacoteetlarete.fr"}
+,
+{"name":"LA COTE ET L'ARETE","city":"MONTAUBAN","address":"500 route du Nord            82000     MONTAUBAN","url":"www.lacoteetlarete.fr"}
+,
+{"name":"LA CUILLERE A OMBLE","city":"DOUSSARD","address":"2346 route de Talloires            74210     DOUSSARD","url":"www.lacuillereaomble.fr"}
+,
+{"name":"LE MILLESIMES","city":"PARIS","address":"110, rue de Courcelles            75017     PARIS","url":""}
+,
+{"name":"LES BERGERIES DE PALOMBAGGIA","city":"PORTO-VECCHIO","address":"Route de Palombaggia            20137     PORTO-VECCHIO","url":"https://hotel-palombaggia.com"}
+,
+{"name":"LES FABLES DE LA FONTAINE","city":"PARIS","address":"131 rue ST DOMINIQUE            75007     PARIS","url":"www.lesfablesdelafontaine.net"}
+,
+{"name":"LES PEUPLIERS","city":"BARATIER","address":"Chemin de Lesdier            05200     BARATIER","url":"www.hotel-les-peupliers.com"}
+,
+{"name":"PULLMANN TOULOUSE AIRPORT RESTAURANT CORRIDOR","city":"BLAGNAC","address":"2 avenue DIDIER DAURAT            31700     BLAGNAC","url":"www.pullmanhotels.com/fr/hotel-0565-pullmann-toulouse-airport/index.shtml"}
+,
+{"name":"RESTAURANT CAF� DE LA PAIX","city":"REIMS","address":"25 Place Drouet d'Erlon            51100     REIMS","url":"www.restaurant-cafe-de-la-paix.fr"}
+,
+{"name":"VILLA MIRASOL","city":"MONT-DE-MARSAN","address":"2 boulevard ferdinand de Candau            40000     MONT-DE-MARSAN","url":"www.villamirasol.fr"}
+,
+{"name":"DU JARDIN A L'ASSIETTE","city":"MAUVES","address":"12 avenue Saint Joseph            07300     MAUVES","url":"www.dujardinalassiette.fr"}
+,
+{"name":"GANDHI","city":"SAINT-TROPEZ","address":"3 All�e du Quai de l�Epi            83990     SAINT-TROPEZ","url":"https://www.gandhi83.fr"}
+,
+{"name":"LA CABANE DE L'ECAILLER","city":"CAGNES-SUR-MER","address":"24 avenue des Oliviers            06800     CAGNES-SUR-MER","url":"www.lacabanedelecailler.com"}
+,
+{"name":"LA COTE ET L'ARETE","city":"CLERMONT FERRAND","address":"25/29 avenue Ernest Cristal            63000     CLERMONT FERRAND","url":"www.lacoteetlarete.fr"}
+,
+{"name":"LA CROIX D'OR","city":"LE PIN-LA-GARENNE","address":"6 rue de la Herse            61400     LE PIN-LA-GARENNE","url":"www.lacroixdor.free.fr"}
+,
+{"name":"LA GRIOTTE","city":"SAULES","address":"3 rue des cerisiers            25580     SAULES","url":"www.lagriotte.fr"}
+,
+{"name":"L'ARCHESTRATE","city":"SAINT-DIZIER","address":"17 rue Emile Giros            52100     SAINT-DIZIER","url":""}
+,
+{"name":"LE FIGUIER DE SAINT ESPRIT","city":"ANTIBES","address":"14 rue Saint Esprit            06600     ANTIBES","url":"www.christianmorisset.fr"}
+,
+{"name":"LES COQUELICOTS","city":"MOYRAZ�S","address":"Avenue des Ev�ques            12160     MOYRAZ�S","url":"www.restaurant-traiteur-bastide.com"}
+,
+{"name":"L'HERMINE BLANCHE","city":"P�ONE","address":"17 avenue de Valberg            06470     P�ONE","url":""}
+,
+{"name":"L'O A LA BOUCHE","city":"MARMANDE","address":"8 rue Claveti�re            47200     MARMANDE","url":""}
+,
+{"name":"L'OUSTAOU","city":"FLAYOSC","address":"5 place Bremond            83780     FLAYOSC","url":""}
+,
+{"name":"RESTAURANT BAUD","city":"BONNE","address":"181 avenue du Leman            74380     BONNE","url":"www.hotel-baud.com"}
+,
+{"name":"RESTAURANT K'LOYS","city":"PAIMPOL","address":"21 quai Morand            22500     PAIMPOL","url":"www.hotel-kloys.com"}
+,
+{"name":"RESTAURANT LE 32","city":"VAULX-EN-VELIN","address":"32 rue Francine Fromont            69120     VAULX-EN-VELIN","url":"www.le32.net"}
+,
+{"name":"RESTAURANT LES BAFOUETTES","city":"ILE D'YEU","address":"8 rue Gabriel Guist'hau            85350     ILE D'YEU","url":"www.lesbafouettes.com"}
+,
+{"name":"AU BOEUF AUBERGE","city":"SESSENHEIM","address":"1 rue DE L'EGLISE            67770     SESSENHEIM","url":"www.auberge-au-b?uf.com"}
+,
+{"name":"AUBERGE DE LA MARINE","city":"LE CROTOY","address":"1 rue Florentin LEFILS            80550     LE CROTOY","url":"www.aubergedelamarine.com"}
+,
+{"name":"CAF� DE PARIS","city":"CHERBOURG-OCTEVILLE","address":"40 quai de Caligny            50100     CHERBOURG-OCTEVILLE","url":"www.restaurantcafedeparis.com"}
+,
+{"name":"LA GUEULE DU LOUP","city":"ARLES","address":"39 rue des Ar�nes            13200     ARLES","url":"restaurant-lagueuleduloup.fr"}
+,
+{"name":"LE GRAND LARGE","city":"BANGOR","address":"Le Goulphar            56360     BANGOR","url":"www.hotelgrandlarge.com"}
+,
+{"name":"LE TEMPS DES SAISONS","city":"JONAGE","address":"1 B impasse du boucher            69330     JONAGE","url":"www.letempsdessaisons.com"}
+,
+{"name":"LES JARDINS DE LA CLOCHE","city":"DIJON","address":"14 Place DARCY            21000     DIJON","url":"www.hotel-lacloche.fr"}
+,
+{"name":"RESTAURANT LA ROTONDE (H�TEL DU PALAIS)","city":"BIARRITZ","address":"1 avenue de l'Imp�ratrice            64200     BIARRITZ","url":"www.hotel-dupalais.com"}
+,
+{"name":"AU FIL DES SAISON","city":"LU�ON","address":"55 route de la Roche            85400     LU�ON","url":"www.aufildessaisons-vendee.fr"}
+,
+{"name":"AU VIEUX MOULIN","city":"LAUTERBOURG","address":"5A rue du moulin            67630     LAUTERBOURG","url":"www.au-vieux-moulin.fr"}
+,
+{"name":"BALADE DES SAVEURS","city":"L'ISLE-SUR-LA-SORGUE","address":"3 quai Jean Jaur�s            84800     L'ISLE-SUR-LA-SORGUE","url":"www.balade-des-saveurs.com"}
+,
+{"name":"CAP SANTA LUCIA","city":"SAINT-RAPHA�L","address":"101 rue Commandant Le Prieur Port Santa Lucia            83700     SAINT-RAPHA�L","url":"www.capsantalucia.fr"}
+,
+{"name":"CHEZ LA GERMAINE","city":"LIMOGES","address":"","url":""}
+,
+{"name":"H�TEL-RESTAURANT R�GIS ET JACQUES MARCON","city":"SAINT-BONNET-LE-FROID","address":"Larsiallas            43290     SAINT-BONNET-LE-FROID","url":"www.regismarcon.fr"}
+,
+{"name":"LA FLAMB�E","city":"BERGERAC","address":"49 avenue Marceau Feyry            24100     BERGERAC","url":"www.laflambee.com"}
+,
+{"name":"LA ROSE TREMIERE","city":"SAINT-MICHEL-EN-L'HERM","address":"4 rue de l'eglise            85580     SAINT-MICHEL-EN-L'HERM","url":"www.restaurant-rosetremiere.fr"}
+,
+{"name":"L'AIGLON","city":"PONTIVY","address":"42 rue du Gal de Gaulle            56300     PONTIVY","url":"www.laiglon-pontivy.com"}
+,
+{"name":"L'AROME","city":"BONNIEUX","address":"2 rue Lucien Blanc            84480     BONNIEUX","url":"https://www.laromerestaurant.com/fr/"}
+,
+{"name":"LE BISTROT D'EPICURE","city":"CASTELS","address":"Argentonesse            24220     CASTELS","url":"www.le-bistrot-depicure.com"}
+,
+{"name":"LE CLOS SAINT ROCH","city":"MAUSSANE-LES-ALPILLES","address":"87 avenue de la vall�e des baux            13520     MAUSSANE-LES-ALPILLES","url":"www.leclosaintroch.com"}
+,
+{"name":"LE DAUPHIN","city":"S�ES","address":"31 Place Anciennes Halles            61500     S�ES","url":"www.hotelrestaurantsees.com"}
+,
+{"name":"LE FERRIERE","city":"OZOIR-LA-FERRI�RE","address":"73 avenue du GAL DE GAULLE            77330     OZOIR-LA-FERRI�RE","url":"www.leferriere.fr"}
+,
+{"name":"LE GAUDI CAFE","city":"GRENOBLE","address":"1 rue DES BONS ENFANTS            38000     GRENOBLE","url":"www.gaudi-cafe.com"}
+,
+{"name":"LE RELAIS DE LA CHEVRETTE","city":"BERNEX","address":"1826, route de la Dent d'Oche            74500     BERNEX","url":"www.lachevrette.fr"}
+,
+{"name":"LES CANAILLES MENILMONTANT","city":"PARIS","address":"15 rue des Panoyaux            75020     PARIS","url":"www.restaurantlescanailles.fr"}
+,
+{"name":"MILL�SIMES 62","city":"PARIS","address":"13/15 Place de Catalogne            75014     PARIS","url":"www.millesime62.com"}
+,
+{"name":"PLAGE  DES JUMEAUX","city":"RAMATUELLE","address":"Chemin Epi, Route des Plage            83350     RAMATUELLE","url":"www.plagedesjumeaux.com"}
+,
+{"name":"RESTAURANT","city":"NASBINALS","address":"Lieu-dit Le Cher            48260     NASBINALS","url":"www.buronduche.fr"}
+,
+{"name":"RESTAURANT CEDRIC GOLA","city":"LA LONDE DES MAURES","address":"22 avenue Georges Cl�menceau            83250     LA LONDE DES MAURES","url":"www.restaurant-cedric-gola.com"}
+,
+{"name":"RESTAURANT EMILIE ET THOMAS","city":"RODEZ","address":"24 Place du bourg            12000     RODEZ","url":"www.restaurant-et.fr"}
+,
+{"name":"RESTAURANT LE TREVISE","city":"SCEAUX","address":"8 avenue Claude PERRAULT            92330     SCEAUX","url":"www.letrevise.fr"}
+,
+{"name":"SUCRE SALE","city":"POINTE A PITRE","address":"Immeuble Bellina - Bd Legitimus            97110     POINTE A PITRE","url":""}
+,
+{"name":"TIGER'S HOUSE","city":"MIRAMAS","address":"GOLF DE MIRAMAS            13140     MIRAMAS","url":"www.tigershouse.com"}
+,
+{"name":"CLAIR DE LA PLUME","city":"GRIGNAN","address":"Place DU MAIL            26230     GRIGNAN","url":"www.clairplume.com"}
+,
+{"name":"LA BELLE ETOILE","city":"VILLEFRANCHE-SUR-MER","address":"1 rue Baron de Br�s            06230     VILLEFRANCHE-SUR-MER","url":"https://www.la-belle-etoile-restaurant-villefranche-sur-mer.com/"}
+,
+{"name":"LA PETILLE","city":"MAGNY-EN-VEXIN","address":"27, Place d'Armes            95420     MAGNY-EN-VEXIN","url":"www.lapetille.fr"}
+,
+{"name":"LE BISTROT GOURMAND","city":"CANNES","address":"10 rue du Dr Gazagnaire            06400     CANNES","url":""}
+,
+{"name":"LE GLAMOUR BEACH","city":"CAP D AGDE","address":"1 Bld des Matelots            34300     CAP D AGDE","url":"www.leglamourbeach.com"}
+,
+{"name":"LE TIRE BOUCHON","city":"LYON","address":"16 rue du Boeuf            69005     LYON","url":"www.letirebouchon-lyon.fr"}
+,
+{"name":"LE VAL MORET","city":"MAGNANT","address":"Le Val Moret            10110     MAGNANT","url":"www.le-val-moret.com"}
+,
+{"name":"L'HUITRE Y EST","city":"PORT-DES-BARQUES","address":"6 rue Claude Bernard            17730     PORT-DES-BARQUES","url":"www.lhuitreyest.fr"}
+,
+{"name":"ABBAYE DE TALLOIRES","city":"TALLOIRES","address":"2 CHEMIN DES MOINES            74290     TALLOIRES","url":"www.abbaye-talloires.com"}
+,
+{"name":"AU CHANT DU BOIS","city":"LE THOLY","address":"5, Route Rain Brice            88530     LE THOLY","url":"www.au-chant-du-bois.fr"}
+,
+{"name":"AU COLOMBIER","city":"ANSE","address":"12 all�e du colombier            69480     ANSE","url":"www.aucolombier.com"}
+,
+{"name":"AUBERGE DE LA LOUVI�RE","city":"SEPTMONTS","address":"23,Place de la mairie            02200     SEPTMONTS","url":"www.restaurant-lalouviere.fr"}
+,
+{"name":"BO BISTROT","city":"VED�NE","address":"130 CHEMIN PONT BLANC            84270     VED�NE","url":"www.bobistrot.com"}
+,
+{"name":"HOTEL DE LA GARE","city":"COUZON-AU-MONT-D'OR","address":"26 rue Gabriel P�ri            69270     COUZON-AU-MONT-D'OR","url":"www.restaurant-hoteldelagare.fr"}
+,
+{"name":"HOTEL DE LA PLAGE","city":"SAINT-PIERRE-QUIBERON","address":"25 quai d'orange            56510     SAINT-PIERRE-QUIBERON","url":"www.hotel-plage-quiberon.com"}
+,
+{"name":"LA CAUSERIE","city":"GU�RANDE","address":"16 rue des pr�s Garnier            44350     GU�RANDE","url":"www.restaurant-lacauserie.com"}
+,
+{"name":"LA TABLE DU CAMPAGNARD","city":"TREFFORT","address":"HERBELON            38650     TREFFORT","url":"www.latableducampagnard.com"}
+,
+{"name":"LA TAVERNE DE LA MARINE","city":"RENNES","address":"3 Place DE BRETAGNE            35000     RENNES","url":"www.tavernedelamarine.fr"}
+,
+{"name":"L'ATELIER DE NICOLAS","city":"AIGUES-MORTES","address":"28 rue d'Alsace de Lorraine            30220     AIGUES-MORTES","url":""}
+,
+{"name":"L'AUBERGE BRESSANE","city":"BOURG-EN-BRESSE","address":"166 bd Brou            01000     BOURG-EN-BRESSE","url":"www.aubergebressane.fr"}
+,
+{"name":"LE COHE","city":"PESSAC","address":"8 avenue ROGER COHE            33600     PESSAC","url":"www.le-cohe.fr"}
+,
+{"name":"LE COLYSEE","city":"LAMBERSART","address":"201 avenue du Colys�e            59130     LAMBERSART","url":"www.lesrestaurantsducolysee.fr"}
+,
+{"name":"LE RELAIS DU QUERCY","city":"MEYSSAC","address":"Avenue du Quercy            19500     MEYSSAC","url":"www.relaisduquercy.fr"}
+,
+{"name":"LE VAL JOLI","city":"VOUVRAY","address":"18 route N 152            37210     VOUVRAY","url":"www.valjoli.com"}
+,
+{"name":"LE VALENTINO","city":"TROYES","address":"35 rue Paillot de Montabert            10000     TROYES","url":"www.levalentino.com"}
+,
+{"name":"LE VIEUX GACHET","city":"CARQUEFOU","address":"Le vieux gachet            44470     CARQUEFOU","url":"www.aubergeduvieuxgachet.com"}
+,
+{"name":"LES PETITS VENTRES","city":"LIMOGES","address":"20 rue de la Boucherie            87000     LIMOGES","url":"www.les-petits-ventres.com"}
+,
+{"name":"LES PIEDS DANS L'EAU","city":"ANTHY-SUR-L�MAN","address":"14 rue de la Plage            74200     ANTHY-SUR-L�MAN","url":""}
+,
+{"name":"RESTO BISTRO DU'O","city":"RUMILLY","address":"13 rue jean Moulin            74150     RUMILLY","url":"www.restobistroduo.fr"}
+,
+{"name":"TERROIR DIVIN","city":"NICE","address":"11 rue Delille            06200     NICE","url":"www.terroirdivin.com"}
+,
+{"name":"VILLA AUGUSTA","city":"SAINT-PAUL-TROIS-CH�TEAUX","address":"14 rue du Serre Blanc            26130     SAINT-PAUL-TROIS-CH�TEAUX","url":"www.villaaugusta.fr"}
+,
+{"name":"AUBERGE DE TRANHEIM","city":"TRAENHEIM","address":"17 rue Principale            67310     TRAENHEIM","url":"www.aubergedetraenheim.com"}
+,
+{"name":"CLOS DES SOURCES","city":"THANNENKIRCH","address":"2 rue de Rodern            68590     THANNENKIRCH","url":"www.leclosdessources.com"}
+,
+{"name":"LA TOQUE ROSE","city":"MALAFRETAZ","address":"1851 route de Bourg            01340     MALAFRETAZ","url":"www.latoquerose.fr"}
+,
+{"name":"LA TOUR D'ARGENT","city":"PARIS","address":"15 quai de la Tournelle            75005     PARIS","url":"www.latourdargent.com"}
+,
+{"name":"L'ASSIETTE CHAMPENOISE","city":"TINQUEUX","address":"40 avenue P. Vaillant Couturier            51430     TINQUEUX","url":"www.assiettechampenoise.com"}
+,
+{"name":"LE COQUELICOT","city":"BURNHAUPT-LE-HAUT","address":"24 rue du Pont d'Aspach            68520     BURNHAUPT-LE-HAUT","url":"www.lecoquelicot.fr"}
+,
+{"name":"LE FER A CHEVAL","city":"CHAMONIX","address":"25 Place du poilu            74400     CHAMONIX","url":"www.facheval.fr"}
+,
+{"name":"LE MAZERAND","city":"LATTES","address":"Mas de Causse CD 172            34970     LATTES","url":""}
+,
+{"name":"RELAIS DE VINCEY","city":"VINCEY","address":"33, rue de Lorraine.            88450     VINCEY","url":"www.relaisdevincey.fr"}
+,
+{"name":"619","city":"SAINT-FRAN�OIS","address":"Rond point Martin Luther King Pradel Saint-Fran�ois,            97118     SAINT-FRAN�OIS","url":"http://loeildegwada.net"}
+,
+{"name":"LA CAVE","city":"ANNECY","address":"8 rue du Paquier            74000     ANNECY","url":"www.barlacave.fr"}
+,
+{"name":"LA PLAYA","city":"CAPESTERRE-MARIE GALANTE","address":"Route du Littoral, Section Bernard            97140     CAPESTERRE-MARIE GALANTE","url":"http://laplaya.restaurantwebexperts.com"}
+,
+{"name":"L'AQUILON","city":"HAUTOT-SUR-MER","address":"128 rue des Verts Bois - Section Pourville-sur-Mer            76550     HAUTOT-SUR-MER","url":"www.restaurantlaquilon.fr"}
+,
+{"name":"LE B� M","city":"MONTAUROUX","address":"Centre Horizon - Plan oriental            83440     MONTAUROUX","url":"http://www.eric-maio.com"}
+,
+{"name":"LE PARVIS","city":"ORANGE","address":"55 cours Pourtoules            84100     ORANGE","url":"www.restaurantleparvisorange.com"}
+,
+{"name":"LE VAUBAN","city":"MONTREUIL SUR MER","address":"32 place du G�n�ral de Gaulle            62170     MONTREUIL SUR MER","url":"www.le-vauban.com"}
+,
+{"name":"","city":"","address":"","url":""}
+,
+{"name":"AUBERGE DE TH�O","city":"NICE","address":"52 avenue du cap de croix            06100     NICE","url":"www.auberge-de-theo.com"}
+,
+{"name":"AUBERGE DES SAINTS-P�RES","city":"AULNAY-SOUS-BOIS","address":"212 avenue de Nonneville            93600     AULNAY-SOUS-BOIS","url":"www.auberge-des-saints-peres.fr"}
+,
+{"name":"AUX TROIS ROIS","city":"MOOSCH","address":"35 rue du G�n�ral de Gaulle            68690     MOOSCH","url":"www.aux-trois-rois.com"}
+,
+{"name":"DU COT� DE CHEZ FRED","city":"S�TE","address":"25/26 Promenade JB Morty            34200     S�TE","url":"www.restaurant-ducotedechezfred.com"}
+,
+{"name":"LA BONNE AUBERGE","city":"LES MOUTIERS EN RETZ","address":"4 avenue de la mer            44760     LES MOUTIERS EN RETZ","url":"www.labonneauberge.eu"}
+,
+{"name":"LA FERME DES TROIS CAPUCINES","city":"TIGNES","address":"Route de fa ferme            73320     TIGNES","url":"www.lafermedes3capucines.com"}
+,
+{"name":"LA FORGE","city":"CARROS","address":"avenue Fernand Barbary            06510     CARROS","url":"www.restolaforge.com"}
+,
+{"name":"LA PART DES ANGES","city":"ANNECY","address":"23 rue Sommeiller            74000     ANNECY","url":"www.restaurant-lapartdesanges.com"}
+,
+{"name":"L'�NE ROUGE","city":"NICE","address":"7 quai des deux emmanuel            06300     NICE","url":"www.anerougenice.com"}
+,
+{"name":"L'AROME","city":"CUGAND","address":"8 Place DE L'EGLISE            85610     CUGAND","url":""}
+,
+{"name":"LE  PICARD","city":"PONT-EN-ROYANS","address":"Quartier le pont picard            38680     PONT-EN-ROYANS","url":"www.lelienlocal.com/commercants/picard/cafe-concert-le-picard.php"}
+,
+{"name":"LE BISTRONOME","city":"SAINT-HILAIRE-DE-LOULAY","address":"2 rue de Nantes            85600     SAINT-HILAIRE-DE-LOULAY","url":""}
+,
+{"name":"LE CHAMARLENC","city":"LE PUY-EN-VELAY","address":"19 rue RAPHAEL            43000     LE PUY-EN-VELAY","url":"www.lechamarleuc.fr"}
+,
+{"name":"LE FLORIMOND","city":"PARIS","address":"19 avenue de la Motte Picquet            75007     PARIS","url":"www.leflorimond.com"}
+,
+{"name":"LE PETIT MEUNIER","city":"MESSIMY","address":"12 chemin du Moulin            69510     MESSIMY","url":"www.lepetitmeunier.com"}
+,
+{"name":"LE PR� D'ANTOINE","city":"FILLINGES","address":"Pont de Fillinges            74250     FILLINGES","url":"www.lepredantoine.com"}
+,
+{"name":"LE QUART DE CERCLE","city":"MEYTHET","address":"16 avenue du stade            74960     MEYTHET","url":"www.lequartdecercle.com"}
+,
+{"name":"LE SENS SIX","city":"MONTPELLIER","address":"106 avenue de lodeve            34070     MONTPELLIER","url":"www.lesenssix.fr"}
+,
+{"name":"L'ENTREE JARDIN","city":"CADILLAC","address":"27 Av. du Pont            33410     CADILLAC","url":"www.restaurant-cadillac.com"}
+,
+{"name":"RESTAURANT CYRIL ATTRAZIC","city":"PEYRE EN AUBRAC","address":"10 route du Languedoc            48130     PEYRE EN AUBRAC","url":"www.camillou.com"}
+,
+{"name":"RESTAURANT DE L'AIN","city":"PONT-DE-POITTE","address":"18 place de la Fontaine            39130     PONT-DE-POITTE","url":"http://hoteldelain.com"}
+,
+{"name":"RESTAURANT DES NOUVEAUX ABATTOIRS","city":"NANCY","address":"4 bd d'Austrasie            54000     NANCY","url":"www.lesnouveauxabattoirs.fr"}
+,
+{"name":"RESTAURANT LE DOMAINE DE ROCHEVILAINE","city":"BILLIERS","address":"Pointe de Pen Lann            56190     BILLIERS","url":"www.domainerochevilaine.com"}
+,
+{"name":"RESTAURANT PIANO","city":"MARSEILLE","address":"78 rue Saint S�bastien            13006     MARSEILLE","url":"http://restaupiano.wix.com/piano"}
+,
+{"name":"REST'AUTHENTIQUE","city":"QUINCAMPOIX","address":"496, route de Neufch�tel            76230     QUINCAMPOIX","url":"www.rest'authentique.fr"}
+,
+{"name":"TTOTTA","city":"SAINT-P�E-SUR-NIVELLE","address":"Espace Ibarrondoan    365 route de Saint Jean de luz        64310     SAINT-P�E-SUR-NIVELLE","url":"www.ttotta.fr"}
+,
+{"name":"AUBERGE DU PARC","city":"HAUTEFORT","address":"Place Ren� Lavaud            24390     HAUTEFORT","url":""}
+,
+{"name":"AUBERGE DU TUY�","city":"FOURNETS-LUISANS","address":"8 rue Saint-Claude            25390     FOURNETS-LUISANS","url":"www.aubergedutuye.com"}
+,
+{"name":"AUBERGE REFUGE DU NEUWEIHER","city":"OBERBRUCK","address":"Rue du Neuweiher            68290     OBERBRUCK","url":"https://www.auberge-refuge-neuweiher.fr"}
+,
+{"name":"BON TH� BONHEUR","city":"TOUQUES","address":"77,79 rue Louvel et Bri�re            14800     TOUQUES","url":"http://www.bon-the-bonheur.com"}
+,
+{"name":"CHALET LA SOURCE","city":"SAINT-NICOLAS-LA-CHAPELLE","address":"Chef lieu            73590     SAINT-NICOLAS-LA-CHAPELLE","url":"www.chalet-lasource.com"}
+,
+{"name":"CHEZ HUGUETTE","city":"BASTIA","address":"Rue de la marine            20200     BASTIA","url":"www.chezhuguette.fr"}
+,
+{"name":"COULEURS SAVEURS","city":"BRICQUEVILLE-SUR-MER","address":"2 route de la Bretonni�re            50290     BRICQUEVILLE-SUR-MER","url":"www.couleurssaveurs.fr"}
+,
+{"name":"FLEUR DE SEL","city":"LA FLECHE","address":"44 rue Carnot            72200     LA FLECHE","url":"www.fleurdesellafleche.com"}
+,
+{"name":"HOTEL LA SANTA","city":"SANTA-REPARATA-DI-BALAGNA","address":"Place de l'eglise            20220     SANTA-REPARATA-DI-BALAGNA","url":"www.hotel-la-santa.com"}
+,
+{"name":"H�TEL-RESTAURANT LA TOUR","city":"DUNI�RES","address":"Route du Fraisse            43220     DUNI�RES","url":"www.hotelrestaurantlatour.com"}
+,
+{"name":"LA CHAPELLE SAINT-MARTIN","city":"NIEUL","address":"33 saint-Martin du Fault            87510     NIEUL","url":"www.chapellesaintmartin.com"}
+,
+{"name":"LA COTRIADE","city":"PERROS-GUIREC","address":"174 Place Saint-Guirec - Ploumanach            22700     PERROS-GUIREC","url":"http://hotel-duparc-perros.com"}
+,
+{"name":"LA CROIX VERTE","city":"BAIN-DE-BRETAGNE","address":"10 Place HENRI 4            35470     BAIN-DE-BRETAGNE","url":"www.lacroixverte.com"}
+,
+{"name":"LA MANGEOIRE HOTEL MERCURE","city":"SAINT-LARY-SOULAN","address":"18 route de Soulan            65170     SAINT-LARY-SOULAN","url":"www.mercuresoulan.com"}
+,
+{"name":"LA PALETTE","city":"WETTOLSHEIM","address":"9 rue Herzog            68920     WETTOLSHEIM","url":"www.lapalette.fr"}
+,
+{"name":"LA PETITE AUBERGE","city":"BERGHOLTZ","address":"4 rue de l'�glise            68500     BERGHOLTZ","url":"www.restaurant-lapetiteauberge.fr"}
+,
+{"name":"LA TABLE DES BAUGES","city":"LA BIOLLE","address":"1821 route d'Annecy            73410     LA BIOLLE","url":"https://latabledesbauges.com"}
+,
+{"name":"LA VAGUE DE SAINT PAUL","city":"ST PAUL DE VENCE","address":"Chemin des Salettes            06570     ST PAUL DE VENCE","url":"www.lavaguedesaintpaul.com"}
+,
+{"name":"L'ATELIER DU PARC","city":"PARIS","address":"35 BD LEFEBVRE            75015     PARIS","url":"www.atelierduparc.fr"}
+,
+{"name":"LE BOUTE EN TRAIN","city":"LA ROCHELLE","address":"7 rue des Bonnes Femmes            17000     LA ROCHELLE","url":""}
+,
+{"name":"LE CLOS DES D�LICES","city":"OTTROTT","address":"17, route de Klingenthal            67530     OTTROTT","url":"www.leclosdesdelices.com"}
+,
+{"name":"LE DUGUAY TROUIN","city":"LE POULIGUEN","address":"26 quai Jules Sandeau            44510     LE POULIGUEN","url":"www.leduguay.fr"}
+,
+{"name":"LE GRAND SAINT BENOIT","city":"SAINT-BENO�T-SUR-LOIRE","address":"7 Place st Andr�            45730     SAINT-BENO�T-SUR-LOIRE","url":"www.restaurant-grand-saint-benoit.com"}
+,
+{"name":"LE MOULIN DE LA PIPE","city":"OMBL�ZE","address":"","url":"www.moulindelapipe.com"}
+,
+{"name":"LE PONT BLEU","city":"SAINT-PAIR-SUR-MER","address":"6 rue Pont Bleu            50380     SAINT-PAIR-SUR-MER","url":"www.lepontbleu.com"}
+,
+{"name":"LE POTAGER DU MAS","city":"ORGON","address":"Route d'Eygali�res            13660     ORGON","url":"www.lepotagerdumas.com"}
+,
+{"name":"LE VIVARAIS","city":"LYON","address":"1 Place Gailleton            69002     LYON","url":"www.restaurant-levivarais.fr"}
+,
+{"name":"LES MELEZES","city":"LES DEUX ALPES","address":"17 rue des Vikings            38860     LES DEUX ALPES","url":"www.hotelmelezes.com"}
+,
+{"name":"L'HOSTELLERIE D'ACQUIGNY","city":"ACQUIGNY","address":"1 rue d'Evreux            27400     ACQUIGNY","url":"www.hostellerie-acquigny.fr"}
+,
+{"name":"L'IMP�RIAL","city":"LABOUTARIE","address":"Laboutari�            81120     LABOUTARIE","url":"www.restaurant-imperial.fr"}
+,
+{"name":"L'INSOLITE","city":"CAEN","address":"16 rue de Vaugneux            14000     CAEN","url":""}
+,
+{"name":"L'OLIVE VERTE","city":"GISORS","address":"26 rue de la Lib�ration            27140     GISORS","url":"www.restaurant-pizzeria-olive-verte.fr"}
+,
+{"name":"PLAGE ONDINE","city":"CANNES","address":"BD de la Croisette            06400     CANNES","url":"www.ondineplage.com"}
+,
+{"name":"RESTAURANT ARCHAMBEAU","city":"THONAC","address":"Le bourg            24290     THONAC","url":"www.hotel-archambeau.com"}
+,
+{"name":"RISTORANTE VAUDAGNA","city":"P�GOMAS","address":"1 promenade des Pr�s Vergers            06580     P�GOMAS","url":"http://vaudagna.com/"}
+,
+{"name":"TABOU BEACH CLUB","city":"RAMATUELLE","address":"Route de Tahiti            83350     RAMATUELLE","url":"www.taboubeach.com"}
+,
+{"name":"AU LARD ET AU COCHON","city":"CARCASSONNE","address":"2 rue Denisse            11000     CARCASSONNE","url":""}
+,
+{"name":"AUBERGE DE BAUDEMONT","city":"BAUDEMONT","address":"2 rue des bambins            71800     BAUDEMONT","url":"www.laubergedebaudemont.fr"}
+,
+{"name":"DIEGO PLAGE L'ECAILLER","city":"ARCACHON","address":"2 Boulevard Veyrier Montagneres            33120     ARCACHON","url":"http://www.diegoplage.com"}
+,
+{"name":"H.R DU NORD","city":"SAINT-JEAN-DE-MAURIENNE","address":"Place du Champ-de-foire            73370     SAINT-JEAN-DE-MAURIENNE","url":"www.hoteldunord.net"}
+,
+{"name":"LA BALEINE BLEUE","city":"SAINT-MARTIN-DE-R�","address":"Quai Launay Razilly            17410     SAINT-MARTIN-DE-R�","url":"www.baleinebleue.com"}
+,
+{"name":"LA TABLE D'A.S","city":"SURG�RES","address":"24 avenue de la Lib�ration            17700     SURG�RES","url":"http://latabledas.eatbu.com"}
+,
+{"name":"LE CARR� D'ALETHIUS","city":"CHARMES-SUR-RH�NE","address":"4 rue Paul Bertois            07800     CHARMES-SUR-RH�NE","url":"www.lecarredalethius.com"}
+,
+{"name":"LE RELAIS DES PUYS","city":"ORCINES","address":"59 route de La Baraque            63870     ORCINES","url":"www.relaisdespuys.com"}
+,
+{"name":"LE RESTO DU COIN","city":"STRASBOURG","address":"18 rue de Neufdel            67100     STRASBOURG","url":"www.lerestoducoin.fr"}
+,
+{"name":"LE RICHE BY S�BASTIEN RATH","city":"AL�S","address":"42 place Pierre S�mard            30100     AL�S","url":"http://www.leriche.fr"}
+,
+{"name":"LES CEDRES DU LIBAN","city":"PARIS","address":"5 avenue du Maine            75015     PARIS","url":"www.lescedresduliban.com"}
+,
+{"name":"LES CUISINES DU CH�TEAU","city":"GORDES","address":"283 Place Pantaly            84220     GORDES","url":"www.lescuisinesduchateau.com"}
+,
+{"name":"LES ENFANTS GAT'TH�S","city":"LA GACILLY","address":"24 rue Lafayette            56200     LA GACILLY","url":"https://lesenfantsgatthes.fr"}
+,
+{"name":"NIOULARGO RESTAURANT","city":"RAMATUELLE","address":"Boulevard Patch            83350     RAMATUELLE","url":"www.nioulargo.net"}
+,
+{"name":"RESTAURANT BOIS JOLY","city":"CROZET","address":"1131 route de la T�l�cabine            01170     CROZET","url":"www.boisjoly.com"}
+,
+{"name":"RESTAURANT CHILHAR","city":"ESPELETTE","address":"25 Xilarreneko Karrika            64250     ESPELETTE","url":"www.hotel-chilhar.com"}
+,
+{"name":"","city":"","address":"","url":""}
+,
+{"name":"CHEZ ROSEMONDE","city":"LES SABLES-D'OLONNE","address":"10 Quai Georges V-La Chaume            85100     LES SABLES-D'OLONNE","url":"www.rosemonde.net"}
+,
+{"name":"DOMAINE DE CIC� BLOSSAC","city":"BRUZ","address":"Avenue de la Chaise            35170     BRUZ","url":"www.domainedecice.com"}
+,
+{"name":"CHEZ PLANES","city":"SAILLAGOUSE","address":"6 Place de Cerdagne            66800     SAILLAGOUSE","url":"www.chezplanes.com"}
+,
+{"name":"H�TEL-RESTAURANT DU PORT","city":"YVOIRE","address":"rue du port            74140     YVOIRE","url":"www.hotelrestaurantduport-yvoire.com"}
+,
+{"name":"L'AMBASSADE DES TERROIRS","city":"GENNEVILLIERS","address":"45 rue Pierre Timbaud            92230     GENNEVILLIERS","url":"www.ambassadedesterroirs.com"}
+,
+{"name":"L'AUBERGE DE LA TANTE ARIE","city":"BLAMONT","address":"4 rue Viette            25310     BLAMONT","url":"www.tantearie.e-monsite.com"}
+,
+{"name":"LE BISTROT GOURMAND","city":"NICE","address":"3 rue Desboutin            06300     NICE","url":"www.lebistrotgourmand.fr"}
+,
+{"name":"LE BOUCHE � OREILLE","city":"NANCY","address":"42 rue des Carmes            54000     NANCY","url":"www.restaurant-bouche-a-oreille.fr"}
+,
+{"name":"LE BOUCHE B","city":"LYON","address":"116 rue Andr� Bollier            69007     LYON","url":"www.leboucheb.com"}
+,
+{"name":"LE JAS DU MAS","city":"SAINT-ANTH�ME","address":"ld Jas du Mas            63660     SAINT-ANTH�ME","url":"www.lejasdumas.fr"}
+,
+{"name":"LE MESCLUN","city":"S�GURET","address":"rue des Poternes            84110     S�GURET","url":"www.lemesclun.com"}
+,
+{"name":"LE TOANE","city":"GR�ZIEU-LA-VARENNE","address":"9 avenue Emile Evellier            69290     GR�ZIEU-LA-VARENNE","url":"www.toanerestaurant.fr"}
+,
+{"name":"LA TABLE DE LOUIS","city":"ROQUEBRUNE-SUR-ARGENS","address":"1308 ROUTE DU GOLF            83520     ROQUEBRUNE-SUR-ARGENS","url":"www.delli-resort.com"}
+,
+{"name":"L'ETAPE","city":"SAINT-FLOUR","address":"18 avenue de la R�publique            15100     SAINT-FLOUR","url":"www.hotel-etape.com"}
+,
+{"name":"RESTAURANT AU PONT DE L'ILL","city":"LA WANTZENAU","address":"2, rue du g�n�ral Leclerc            67610     LA WANTZENAU","url":"www.aupontdelill.com"}
+,
+{"name":"RESTAURANT DE LA PLACE","city":"SAINT-JEAN-D'ANG�LY","address":"45 rue Rose            17400     SAINT-JEAN-D'ANG�LY","url":"www.hoteldelaPlace.net"}
+,
+{"name":"RESTAURANT DES GORGES DU VERDON","city":"LA PALUD SUR VERDON","address":"Route maline            04120     LA PALUD SUR VERDON","url":"www.hotel-des-gorges-du-verdon.fr"}
+,
+{"name":"VICTOIRE et THOMAS","city":"LYON","address":"27 rue de l'Arche Sec            69001     LYON","url":"www.victoire-thomas.com"}
+,
+{"name":"","city":"","address":"","url":""}
+,
+{"name":"AUBERGE DE ST REMY - Restaurant Fanny REY","city":"SAINT-R�MY-DE-PROVENCE","address":"12 Bd Mirabeau            13210     SAINT-R�MY-DE-PROVENCE","url":"www.aubergesaintremy.com"}
+,
+{"name":"AUBERGE DE VIENNE","city":"VIENNE-EN-VAL","address":"2 route d'Orl�ans            45510     VIENNE-EN-VAL","url":"www.aubergedevienne.com"}
+,
+{"name":"AUBERGE DES MATFEUX�","city":"ARNAGE","address":"289 rue Nationale            72230     ARNAGE","url":"www.aubergedesmatfeux.fr"}
+,
+{"name":"AUBERGE DES VIEUX CHENES","city":"MALEMORT","address":"31 AV. HONORE DE BALZAC            19360     MALEMORT","url":"www.auberge-des-vieux-chenes.com"}
+,
+{"name":"COSTA D'AMALFI","city":"PARIS","address":"65 rue de l'Universit�            75007     PARIS","url":"http://www.restaurant-costadamalfi.fr"}
+,
+{"name":"CREPERIE LE TRISKELL","city":"BOURG-ET-COMIN","address":"5 rue de Moulins            02160     BOURG-ET-COMIN","url":"www.restaurantcreperieletriskell.fr"}
+,
+{"name":"EVI EVANE","city":"PARIS","address":"10 rue Guisarde            75006     PARIS","url":"www.evievane.com"}
+,
+{"name":"GRAND HOTEL DU PARC","city":"FLORAC","address":"47 avenue Monestier            48400     FLORAC","url":"www.grand-hotel-du-parc-48.com"}
+,
+{"name":"JARDIN GOURMAND","city":"AUXERRE","address":"56 Bd Vauban            89000     AUXERRE","url":"www.lejardingourmand.com"}
+,
+{"name":"LA VOUTE","city":"MOUTIERS","address":"172 GRANDE rue            73600     MOUTIERS","url":""}
+,
+{"name":"L'AUBERGE DE LA CASCADE","city":"ST CHELY DU TARN","address":"Sainte-Enimie            48210     ST CHELY DU TARN","url":"www.aubergecascade.com"}
+,
+{"name":"LE BRISE LAMES","city":"LA TREMBLADE","address":"2 avenue de la C�pe            17390     LA TREMBLADE","url":"www.hotel-grand-chalet.com"}
+,
+{"name":"LE MANEGE RESTAURANT","city":"SAINT-GERMAIN-EN-LAYE","address":"5 rue ST LOUIS            78100     SAINT-GERMAIN-EN-LAYE","url":"www.restaurant-le-manege.com"}
+,
+{"name":"LE RELAIS D�LYS","city":"SAINT-R�MY-SUR-DUROLLE","address":"14 Place du Commerce            63550     SAINT-R�MY-SUR-DUROLLE","url":"www.lerelaisdelys.fr"}
+,
+{"name":"LE RELAIS DU COCHE","city":"EYGUI�RES","address":"Place Monier            13430     EYGUI�RES","url":"www.lerelaisducoche.com"}
+,
+{"name":"LE RELAIS VOSGIEN","city":"SAINT-PIERREMONT","address":"9 Grande rue            88700     SAINT-PIERREMONT","url":"www.relais-vosgien.fr"}
+,
+{"name":"LE VAL D'AMBY","city":"HI�RES-SUR-AMBY","address":"2 PLACE DE LA REPUBLIQUE            38118     HI�RES-SUR-AMBY","url":"www.hotel-levalamby.com"}
+,
+{"name":"LEONARD DE VINCI","city":"TOURS","address":"19 rue de la Monnaie            37000     TOURS","url":"www.leonard-de-vinci.info"}
+,
+{"name":"LES CAUDALIES","city":"SAINT-HERBLAIN","address":"229 route de Vannes            44800     SAINT-HERBLAIN","url":"www.restaurant-lescaudalies.com"}
+,
+{"name":"LES CYGNES CHEZ JULES","city":"MARGENCEL","address":"4 route des mouettes    port de S�chex        74200     MARGENCEL","url":"www.lescygnes-chezjules.fr"}
+,
+{"name":"LES JARDINS DE BOHAIN","city":"BOHAIN-EN-VERMANDOIS","address":"19 place Michel Pezin            02110     BOHAIN-EN-VERMANDOIS","url":"www.lesjardinsdebohain.fr"}
+,
+{"name":"LEVIDENCE","city":"NOEUX-LES-MINES","address":"333 route Nationale            62290     NOEUX-LES-MINES","url":"www.restaurantlevidence.com"}
+,
+{"name":"L'OURS DE ROCHES","city":"ST OURS LES ROCHES","address":"LA COURTEIX            63230     ST OURS LES ROCHES","url":"www.oursdesroches.com"}
+,
+{"name":"A L'�TOILE","city":"MITTELHAUSEN","address":"12 rue de la Hey            67170     MITTELHAUSEN","url":"www.hotel-etoile.fr"}
+,
+{"name":"AU CUL DE POULE","city":"REIMS","address":"46 bd carteret            51100     REIMS","url":"www.auculdepoule.fr"}
+,
+{"name":"BAYA HOTEL ET SPA","city":"CAPBRETON","address":"85 av Mal de Lattre de Tassigny            40130     CAPBRETON","url":"www.baya-hotel-capbreton.com"}
+,
+{"name":"HOTEL U CAPU BIANCU","city":"BONIFACIO","address":"Route de Canetto            20169     BONIFACIO","url":"www.ucapubiancu.com"}
+,
+{"name":"LA CLOSERIE","city":"DIJON","address":"18 rue Saint-Anne            21000     DIJON","url":"www.restaurant-lesoenophiles.com"}
+,
+{"name":"LA FERIA","city":"GUJAN-MESTRAS","address":"CHEMIN DU LOUP    LAC DE LA MAGDELEINE        33470     GUJAN-MESTRAS","url":"www.alaferia.fr"}
+,
+{"name":"LE BISTROT DU BASSIN","city":"LE CAP FERRET","address":"5 rue des Pionniers            33970     LE CAP FERRET","url":"www.lamaisondubassin.com"}
+,
+{"name":"LE CALGARY","city":"LES SAISIES","address":"73 rue Periots            73620     LES SAISIES","url":"www.hotelcalgary.com"}
+,
+{"name":"LE GRAND MONARQUE","city":"DONZY","address":"10 rue de l'�tape            58220     DONZY","url":"www.legrandmonarque-donzy.fr"}
+,
+{"name":"LE RETRO","city":"VITTEL","address":"158 rue Jeanne d'Arc            88800     VITTEL","url":"http://www.resto-le-retro.fr"}
+,
+{"name":"LE SAPERLIPOPETTE !","city":"PUTEAUX","address":"24 Rue Mars et Roty            92800     PUTEAUX","url":"www.saperlipopette1.fr"}
+,
+{"name":"LES ARCHIVES","city":"POITIERS","address":"14 rue Edouard Grimaux            86000     POITIERS","url":"www.lesarchives.fr"}
+,
+{"name":"LES SARMENTS","city":"REIMS","address":"48 rue L�on Faucher            51100     REIMS","url":"www.lessarments.fr"}
+,
+{"name":"L'OREE DES CHENES","city":"LA FERT�-SAINT-AUBIN","address":"921 RTE DE MARCILLY            45240     LA FERT�-SAINT-AUBIN","url":"www.loreedeschenes.com"}
+,
+{"name":"PIQU'BOEUF GRILL","city":"BEAUNE","address":"2 rue du Faubourg Madeleine            21200     BEAUNE","url":"www.piquboeuf.com"}
+,
+{"name":"RESTAURANT AUX 3 ROSES","city":"EPFIG","address":"18 rue des alli�s            67680     EPFIG","url":"resa@aux-trois-roses.com"}
+,
+{"name":"RESTAURANT INKA","city":"PARIS","address":"13 Bld du Temple de Paris            75003     PARIS","url":"www.ik-paris.com"}
+,
+{"name":"AUBERGE DE LA FERME GUICHARD","city":"CORMARANCHE-EN-BUGEY","address":"Route du Col de la Rochette,            01110     CORMARANCHE-EN-BUGEY","url":"www.lafermeguichard.e-monsite.com"}
+,
+{"name":"AUBERGE DU MOULIN","city":"SAINT-SORLIN-EN-VALLOIRE","address":"15 Place des Gauds            26210     SAINT-SORLIN-EN-VALLOIRE","url":"www.aubergemoulin.fr"}
+,
+{"name":"BISTROT COLETTE","city":"BOURGOIN-JALLIEU","address":"2 Place JJ ROUSSEAU            38300     BOURGOIN-JALLIEU","url":"www.bistrotcolette.com"}
+,
+{"name":"CHANTEFABLE","city":"PARIS","address":"93 AV GAMBETTA            75020     PARIS","url":"www.chantefable.fr"}
+,
+{"name":"CHEZ BASTIEN","city":"SAINT-JEAN-DE-MONTS","address":"9 avenue de la For�t            85160     SAINT-JEAN-DE-MONTS","url":"www.chezbastien.fr"}
+,
+{"name":"CLUB DES PALMIERS","city":"RAMATUELLE","address":"club les palmiers    plage de pampelonne    962 chemin des tamaris    83350     RAMATUELLE","url":"www.clubpalmiers.com"}
+,
+{"name":"HOSTELLERIE SAINT MARTIN","city":"CREULLY","address":"6 Place Edmond Paillaud            14480     CREULLY","url":"www.hostelleriesaintmartin.com"}
+,
+{"name":"HOTEL RESTAURANT ARGIA","city":"HASPARREN","address":"32 rue Jean Lissar            64220     HASPARREN","url":"www.hotel-argia.com"}
+,
+{"name":"HOTEL VICTOR HUGO","city":"SAINT-C�R�","address":"7 avenue des maquis            46400     SAINT-C�R�","url":"www.hotel-victor-hugo.fr"}
+,
+{"name":"LA CUEILLETTE","city":"MEURSAULT","address":"18 rue DE CITEAUX            21190     MEURSAULT","url":"www.lacueillette.com"}
+,
+{"name":"LA MAISON","city":"COGNAC","address":"1 rue du 14 juillet            16100     COGNAC","url":"www.restaurant-lamaison-cognac.fr"}
+,
+{"name":"LA MAISON DANS LE PARC","city":"NANCY","address":"3 rue STE CATHERINE            54000     NANCY","url":"www.lamaisondansleparc.com"}
+,
+{"name":"LA TABLE","city":"TOURTOUR","address":"Les Ribas            83690     TOURTOUR","url":"www.latable.fr"}
+,
+{"name":"LABEL BRAISE","city":"S�GOUFIELLE","address":"27 route de Grenade            32600     S�GOUFIELLE","url":"www.restaurant-labelbraise.com"}
+,
+{"name":"LE BISTROT DU PORT","city":"GOLF JUAN","address":"53 avenue des Fr�res Roustan            06220     GOLF JUAN","url":"www.bistrotduport.com"}
+,
+{"name":"LE BRETAGNE MAISON LORIN","city":"NORT-SUR-ERDRE","address":"41 rue aristide Briand            44390     NORT-SUR-ERDRE","url":"www.restaurantlorin.com"}
+,
+{"name":"LE CH�TEAU DE COCOVE","city":"RECQUES-SUR-HEM","address":"Avenue de cocove            62890     RECQUES-SUR-HEM","url":"www.chateaudecocove.com"}
+,
+{"name":"LE CH�TEAU DES ILES","city":"LA VARENNE SAINT-HILAIRE","address":"85 quai Winston Churchill            94210     LA VARENNE SAINT-HILAIRE","url":"www.chateau-des-iles.com"}
+,
+{"name":"LE DIT VIN","city":"SAINT-AYGULF","address":"90 avenue Lucien B?uf            83370     SAINT-AYGULF","url":"https://www.leditvin.com"}
+,
+{"name":"LE FORUM","city":"ORANGE","address":"3 rue du Mazeau            84100     ORANGE","url":"www.restaurant-le-forum-orange.fr"}
+,
+{"name":"LE MABOUYA DANS LA BOUTEILLE","city":"ST FRANCOIS","address":"17 Saline Est            97118     ST FRANCOIS","url":"http://www.lemabouya.fr/"}
+,
+{"name":"LE MONTAUBAN","city":"BRIVE-LA-GAILLARDE","address":"6 avenue EDOUARD HERRIOT            19100     BRIVE-LA-GAILLARDE","url":"www.hotelrestaurant-lemontauban.fr"}
+,
+{"name":"LE RELAIS DES SAVEURS","city":"MARLENHEIN","address":"1 Place du Kaufhaus            67520     MARLENHEIN","url":"www.relais.fr"}
+,
+{"name":"LE SAINT NICOLAS","city":"GRAVIGNY","address":"38 ter avenue Aristide Briand            27930     GRAVIGNY","url":"www.restaurant-saintnicolas.fr"}
+,
+{"name":"L'�PICURIEN","city":"METZ","address":"33 rue vigne saint avold            57000     METZ","url":"www.lepicurienmetz.fr"}
+,
+{"name":"LES COCOTTES NOIRES","city":"JANZ�","address":"12 rue Saint Pierre            35150     JANZ�","url":"www.lescocottesnoires.fr"}
+,
+{"name":"LES GRILLONS","city":"TALLOIRES","address":"1199 Route d'Andon            74290     TALLOIRES","url":"www.hotel-grillons.com"}
+,
+{"name":"PAULE ET KOPA","city":"MARSEILLE","address":"42 Place aux huiles -            13001     MARSEILLE","url":"www.restaurantpauleetkopa.fr"}
+,
+{"name":"H�TEL RESTAURANT DE LA POSTE","city":"CH�TEAUNEUF-DE-RANDON","address":"L'Habitarelle            48170     CH�TEAUNEUF-DE-RANDON","url":"www.hoteldelaposte48.com"}
+,
+{"name":"A LA TABLE DE NICOLAS","city":"SAINT-R�MY-DE-PROVENCE","address":"8 Bd Marceau            13210     SAINT-R�MY-DE-PROVENCE","url":""}
+,
+{"name":"AU FIL DES SAISONS","city":"MEZY CORBON","address":"23 avenue de Paris            14370     MEZY CORBON","url":"www.aufildessaisons.fr"}
+,
+{"name":"AU GARDE MANGER","city":"BAZOUGES CRE SUR LOIR","address":"79 rue du Maine Bazougues sur le Loir            72200     BAZOUGES CRE SUR LOIR","url":"www.restaurantaugardemanger.jimdo.com"}
+,
+{"name":"AUBERGE DE BRECA","city":"SAINT-LYPHARD","address":"352 village de Breca            44410     SAINT-LYPHARD","url":"www.auberge-breca.com"}
+,
+{"name":"AUBERGE DU CENTRE","city":"CHITENAY","address":"34 grande rue            41120     CHITENAY","url":"www.auberge-du-centre.com"}
+,
+{"name":"BRASSERIE VAL FLEURY","city":"GIF-SUR-YVETTE","address":"10 all�e du Valfleury            91190     GIF-SUR-YVETTE","url":"www.brasserievalfleury.fr"}
+,
+{"name":"CH�TEAU DE FINES ROCHES","city":"CH�TEAUNEUF-DU-PAPE","address":"Hostellerie du Ch�teau des Fines Roches    1901 route de Sorgues        84230     CH�TEAUNEUF-DU-PAPE","url":"www.chateaufinesroches.com"}
+,
+{"name":"DELICATESSENS","city":"MILHAC","address":"LE BOURG            46300     MILHAC","url":"www.delicatessens.fr"}
+,
+{"name":"LA BARATTE","city":"TOURCOING","address":"395 rue du Clinquet            59200     TOURCOING","url":"www.la-baratte.com"}
+,
+{"name":"LA VILLA","city":"REIMS","address":"30 rue de Mars            51100     REIMS","url":""}
+,
+{"name":"L'AUBERGE DES TILLEULS","city":"CHANC�","address":"4 route de la Chapelle            35680     CHANC�","url":"www.aubergedestilleuls.fr"}
+,
+{"name":"L'AYGO","city":"BIZANOS","address":"Avenue de l'Yser            64320     BIZANOS","url":""}
+,
+{"name":"LE BISTROT D'HENRY","city":"SAINT-M�LOIR-DES-ONDES","address":"12 Place de l'Eglise            35350     SAINT-M�LOIR-DES-ONDES","url":"www.lebistrotdhenry.fr"}
+,
+{"name":"LE CATHARE","city":"CARCASSONNE","address":"53 rue Jean Bringer            11000     CARCASSONNE","url":""}
+,
+{"name":"LE CHALET","city":"LIMOGES","address":"5 rue des filles Notre Dame            87000     LIMOGES","url":"www.restaurant-lechalet.fr"}
+,
+{"name":"LE CHEVAL ROUGE","city":"SAINTE-MENEHOULD","address":"1 rue Chanzy            51800     SAINTE-MENEHOULD","url":"www.lechevalrouge.com"}
+,
+{"name":"LE CLOS DU ROY","city":"SAINT-�MILION","address":"12 rue de la Petite Fontaine            33330     SAINT-�MILION","url":"www.leclosduroy.com"}
+,
+{"name":"LE POINT DU JOUR","city":"LA ROCHE-SUR-YON","address":"7 rue GUTENBERG            85006     LA ROCHE-SUR-YON","url":"www.pointdujour.com"}
+,
+{"name":"LE PRE DE LA CURE","city":"YVOIRE","address":"1 pl de la mairie            74140     YVOIRE","url":"www.pre-delacure.com"}
+,
+{"name":"LE RELAIS","city":"HAUTERIVES","address":"1 Place du G�n�ral de Miribel            26390     HAUTERIVES","url":"www.hotel-relais-drome.com"}
+,
+{"name":"LE RELAIS DE SILLERY","city":"SILLERY","address":"3 rue de la gare            51500     SILLERY","url":"www.relaisdesillery.fr"}
+,
+{"name":"LE ROYAL JUSSIEU","city":"PARIS","address":"1 rue DES ECOLES            75005     PARIS","url":"www.royaljussieu.fr"}
+,
+{"name":"LE VEAU D'OR - MAISON MARSOLLIER","city":"CH�TEAU-GONTIER","address":"Parc St Fiacre            53200     CH�TEAU-GONTIER","url":"www.maison-marsollier-restaurant-traiteur-53.fr"}
+,
+{"name":"L'�CUME","city":"SAINT-TROJAN-LES-BAINS","address":"2 rue de la r�publique            17370     SAINT-TROJAN-LES-BAINS","url":"www.restaurant-lecume-oleron.fr"}
+,
+{"name":"LES EMBRUNS","city":"SAINT-MARTIN-DE-R�","address":"6 rue du Chay Morin            17410     SAINT-MARTIN-DE-R�","url":"www.lesembruns-iledere.com"}
+,
+{"name":"LES EMBRUNS","city":"ARCACHON","address":"30 boulevard de la plage            33120     ARCACHON","url":"www.resto-lesembruns-arcachon.fr"}
+,
+{"name":"LES �TANGS DE GUIBERT","city":"NEUFCH�TEL-EN-SAOSNOIS","address":"Route des �tangs de Guibert            72600     NEUFCH�TEL-EN-SAOSNOIS","url":"www.lesetangsdeguibert.com"}
+,
+{"name":"LES FERLEMPINS","city":"COMPI�GNE","address":"13 Cours Guynemer            60200     COMPI�GNE","url":"wwwlesferlempins.fr"}
+,
+{"name":"LES MURIERS","city":"ROQUEBRUNE-SUR-ARGENS","address":"San Peire RN 98            83520     ROQUEBRUNE-SUR-ARGENS","url":"www.hotel-leprovencal.com"}
+,
+{"name":"L'XTREME COMPTOIR","city":"SAINT-JEAN-DE-BOURNAY","address":"51 rue de la r�publique            38440     SAINT-JEAN-DE-BOURNAY","url":"www.lxtreme-restaurant.com"}
+,
+{"name":"RESTAURANT DU CANARD","city":"HANGEST-SUR-SOMME","address":"7 Place de la Gare            80310     HANGEST-SUR-SOMME","url":"www.restaurantducanard.com"}
+,
+{"name":"RESTAURANT L'ABBAYE","city":"HAUTVILLERS","address":"114, rue de l'Eglise            51160     HAUTVILLERS","url":"www.abbayehautvilliers.org"}
+,
+{"name":"RESTAURANT LE PIRATE","city":"GRANVILLE","address":"2 Place GAL de Gaulle            50400     GRANVILLE","url":"www.brasserie-au-pirate.com"}
+,
+{"name":"AU BOIS LE SIRE","city":"ORBEY","address":"20 rue Charles de Gaulle            68370     ORBEY","url":"www.bois-le-sire.fr"}
+,
+{"name":"AUX TROIS MARIES","city":"LYON","address":"1 rue des Trois Maries            69005     LYON","url":"www.aux-3-maries.fr"}
+,
+{"name":"COMPTOIR JOA - CASINO DES PINS","city":"LES SABLES-D'OLONNE","address":"14 avenue Rhin et Danube            85109     LES SABLES-D'OLONNE","url":"www.joa-casino.com"}
+,
+{"name":"GRAINS DE SEL","city":"HAGUENAU","address":"113 grand'rue            67500     HAGUENAU","url":"www.restaurant-grainsdesel.fr"}
+,
+{"name":"HOTEL DU LAC - RESTAURANT LE COCON","city":"SAINT-PRIEST","address":"160 cours du troisi�me Mill�naire            69800     SAINT-PRIEST","url":"http://www.lecocon-restaurant.com"}
+,
+{"name":"HOTEL VILLA BELROSE","city":"GASSIN","address":"BD des cr�tes            83580     GASSIN","url":"www.villabelrose.com"}
+,
+{"name":"LA COTE ET L'ARETE","city":"LAB�GE","address":"143 rue Pierre Gilles de Gennes            31670     LAB�GE","url":"www.lacoteetlarete.fr"}
+,
+{"name":"LA COTE ET L'ARETE","city":"AUCAMVILLE","address":"31 route du Fronton            31140     AUCAMVILLE","url":"www.lacoteetlarete.fr"}
+,
+{"name":"LA GARAUDIERE","city":"LEVERNOIS","address":"10 Grande rue            21200     LEVERNOIS","url":"www.lagaraudiere.fr"}
+,
+{"name":"LA GRILLANDINE","city":"SAINT-NAZAIRE","address":"201 rue de la Trinit�            44600     SAINT-NAZAIRE","url":"www.lagrillandine.fr"}
+,
+{"name":"LA MERISE","city":"LAUBACH","address":"7 rue d'Eschbach            67580     LAUBACH","url":"www.lamerise.alscace"}
+,
+{"name":"LA SIESTA","city":"ROYAN","address":"140 rue Gambetta            17200     ROYAN","url":"www.lasiesta-royan.fr"}
+,
+{"name":"LE CANTERMERLE","city":"VENCE","address":"258 Chemin de Cantemerle            06140     VENCE","url":"www.hotelcantemerle.com"}
+,
+{"name":"LE MOULIN DES ECREVISSES","city":"AILLY SOR NOYE","address":"Route de boves            80250     AILLY SOR NOYE","url":"www.lemoulindesecrevisses.com"}
+,
+{"name":"LE RELAIS DE PIROT","city":"ILSE ET BARDAIS","address":"Le Bourg            03360     ILSE ET BARDAIS","url":"https://www.lerelaisdepirot.fr"}
+,
+{"name":"LES 3 LIEUX","city":"LES PONTS-DE-C�","address":"10 Port des Noues            49130     LES PONTS-DE-C�","url":"www.les3lieux.com"}
+,
+{"name":"RESTAURANT SKAB","city":"N�MES","address":"7, rue de la R�publique            30000     N�MES","url":"www.restaurant-skab.fr"}
+,
+{"name":"SAS BELLEVUE","city":"VILLERVILLE","address":"7 all�e du Jardin Madame            14113     VILLERVILLE","url":"www.bellevue-hotel.fr"}
+,
+{"name":"WINSTUB MEISELOCKER","city":"STRASBOURG","address":"39 rue des Fr�res            67000     STRASBOURG","url":"www.meiselocker.fr"}
+,
+{"name":"A LA FERME LOISEL","city":"HOULLE","address":"11 rue Hellebroucq            62910     HOULLE","url":"www.fermeloisel.com"}
+,
+{"name":"A L'ARDOISE","city":"SAINT-HILAIRE-DU-HARCOU�T","address":"28 Place de la Motte            50600     SAINT-HILAIRE-DU-HARCOU�T","url":"www.restaurant-a-lardoise.fr"}
+,
+{"name":"AU P�RE LAPIN","city":"SURESNES","address":"10 rue du Calvaire            92150     SURESNES","url":"www.auperelapin.com"}
+,
+{"name":"BLEND BISTRO PUB","city":"ORL�ANS","address":"5 rue de la Cholerie            45000     ORL�ANS","url":"www.blendnistropub.fr"}
+,
+{"name":"CAZES ARAZAT","city":"LAISSAC","address":"15 av de la Roque            12310     LAISSAC","url":"www.hotel-cazes.fr"}
+,
+{"name":"CHEZ FRAN�OISE","city":"PARIS","address":"A�rogare des Invalides            75007     PARIS","url":"www.chezfrancoise.com"}
+,
+{"name":"CHEZ LE P�R'GRAS","city":"LA TRONCHE","address":"Chemin de la Bastille            38700     LA TRONCHE","url":"www.restaurant-grenoble-gras.com"}
+,
+{"name":"LA FONTAINE","city":"CREUZIER-LE-VIEUX","address":"16 rue de la Fontaine            03300     CREUZIER-LE-VIEUX","url":"www.lafontainevichy.fr"}
+,
+{"name":"LA TREILLE","city":"VITRAC","address":"Le port            24200     VITRAC","url":"www.latreille-perigord.com"}
+,
+{"name":"L'AMIRAUTE","city":"AJACCIO","address":"Port Charles Ornano,            20000     AJACCIO","url":"www.restaurant-amiraute-ajaccio.com"}
+,
+{"name":"LE CHEVERNY","city":"LIMOGES","address":"57 avenue Baudin            87000     LIMOGES","url":"www.lecheverny.fr"}
+,
+{"name":"LE GRENADIN","city":"BELLEU","address":"19 route de F�re en Tardenois            02200     BELLEU","url":"www.restaurant-grenadin.com"}
+,
+{"name":"LE LAUMIERE","city":"PARIS","address":"4 rue Petit            75019     PARIS","url":"www.restaurantlelaumiere.com"}
+,
+{"name":"LE MOULIN BLEU","city":"BOURGUEIL","address":"7 rue du Moulin Bleu            37140     BOURGUEIL","url":"www.lemoulinbleu.com"}
+,
+{"name":"LE PHARE","city":"GRANVILLE","address":"11 rue du Port            50400     GRANVILLE","url":"www.restaurant-lephare-granville.com"}
+,
+{"name":"LE RECIPROQUE","city":"PARIS","address":"14 rue Ferdinand Flocon            75018     PARIS","url":"www.lereciproque.com"}
+,
+{"name":"LE REGENCE","city":"APPRIEU","address":"36 Route de Lyon            38140     APPRIEU","url":"www.le-regence.fr"}
+,
+{"name":"LE ROUGET NOIR","city":"SAINT-QUENTIN","address":"19 rue VICTOR BASCH            02100     SAINT-QUENTIN","url":"www;lerougetnoir.com"}
+,
+{"name":"LE SAINT HONORE","city":"V�RETZ","address":"10 Place Paul Louis Courier            37270     V�RETZ","url":"www.lesainthonore.fr"}
+,
+{"name":"LE SORRENTO","city":"LE HAVRE","address":"77 quai de Southampton            76600     LE HAVRE","url":"https://restaurant-le-sorrento.fr/"}
+,
+{"name":"LOISEAU RIVE GAUCHE","city":"PARIS","address":"5 rue DE BOURGOGNE            75007     PARIS","url":"www.bernard-loiseau.com"}
+,
+{"name":"LA TABLE D'�MERAUDE","city":"PARIS","address":"7, avenue de la Porte de Clichy            75017     PARIS","url":"http://www."}
+,
+{"name":"PLEIN SUD","city":"PRADET","address":"23 avenue jean Moulin            83220     PRADET","url":"www.restaurant-plein-sud.com"}
+,
+{"name":"RESTAURANT DE LA COSMETIQUE","city":"MARSEILLE","address":"2 rue Odette Jasse            13015     MARSEILLE","url":"www.resto-cosmetique.com"}
+,
+{"name":"RESTAURANT XOKO GOXOA","city":"SAINT-MICHEL","address":"Le Bourg            64220     SAINT-MICHEL","url":"http://http://xoko-goxoa.com/fr/"}
+,
+{"name":"A TABLE","city":"EPFIG","address":"63 rue des Alli�s            67680     EPFIG","url":"www.atable-epfig.fr"}
+,
+{"name":"BAR DU BOUCHER","city":"BORDEAUX","address":"5 rue du Parlement Ste Catherine            33000     BORDEAUX","url":"www.barduboucher.com"}
+,
+{"name":"EN CATIMINI","city":"FERRALS-LES-CORBI�RES","address":"16 Place de la r�publique            11200     FERRALS-LES-CORBI�RES","url":"www.en-catimi.fr"}
+,
+{"name":"HOTEL RESTAURANT DU PONT D'ABENSE","city":"ABENSE DE HAUT","address":"Uhaltia            64470     ABENSE DE HAUT","url":"http://www.hotelrestaurant-pontabense.com"}
+,
+{"name":"LA CLE DES CHAMPS","city":"MORZINE","address":"40 taille de mas de Ch�teau            74110     MORZINE","url":"www.clefdeschamps.com"}
+,
+{"name":"L'ARDOISE DU XV","city":"PARIS","address":"70, rue S�bastien Mercier            75015     PARIS","url":"www.lardoiseduxv.fr"}
+,
+{"name":"L'AUBERGE DU CEDRE","city":"LAURET","address":"Domaine de Cazeneuve            34270     LAURET","url":"www.auberge-du-cedre.com"}
+,
+{"name":"LE BOEUF D'ARGENT","city":"LYON","address":"29 rue du Boeuf            69005     LYON","url":"www.restaurantleboeufdargent.com"}
+,
+{"name":"LES JARDINS DU LEMAN","city":"YVOIRE","address":"Grande rue            74140     YVOIRE","url":"www.lesjardinsduleman.com"}
+,
+{"name":"RESTAURANT LOTRE","city":"AIX-EN-PROVENCE","address":"855 route de Berre            13090     AIX-EN-PROVENCE","url":"www.lotrerestaurant.com"}
+,
+{"name":"RESTAURANT SOUPLY","city":"CHALON EN CHAMPAGNE","address":"8 faubourg St Antoine            51000     CHALON EN CHAMPAGNE","url":"www.restaurant-souply.com"}
+,
+{"name":"AU 52","city":"CROIX","address":"4 rue du Professeur Perrin            59170     CROIX","url":"www.au52.fr"}
+,
+{"name":"AU PONT TOURNANT","city":"BIERNE","address":"30 route de bergues            59380     BIERNE","url":"www.ponttournant.com"}
+,
+{"name":"BRASSERIE DU LAC","city":"FOREST-SUR-MARQUE","address":"131 rue PRINCIPALE            59510     FOREST-SUR-MARQUE","url":""}
+,
+{"name":"LA MEUNIERE","city":"LYON","address":"11 rue Neuve            69001     LYON","url":"www.lameuniere.fr"}
+,
+{"name":"L'ARTIMON","city":"PALAVAS-LES-FLOTS","address":"Bassin plaisance            34250     PALAVAS-LES-FLOTS","url":"www.lartimon.com"}
+,
+{"name":"LE PARELOUP","city":"PARIS","address":"80 rue Saint Charles            75015     PARIS","url":"www.lepareloup.fr"}
+,
+{"name":"CHEZ JO","city":"ST JOSEPH","address":"101 Blvrd de l'Ocean            97480     ST JOSEPH","url":""}
+,
+{"name":"DON CAMILO","city":"PARIS","address":"10 rue des Saints-P�res            75007     PARIS","url":"www.don-camilo.com"}
+,
+{"name":"LA BRASSERIE DES MONTS D'OR","city":"SAINT-CYR-AU-MONT-D'OR","address":"3 Place de la R�publique            69450     SAINT-CYR-AU-MONT-D'OR","url":"www.brasseriedesmontsdor.fr"}
+,
+{"name":"LA GARENNE","city":"CAHORS","address":"Saint Henri            46000     CAHORS","url":"www.la-garenne-cahors.com"}
+,
+{"name":"LA TABLE DU BOISNIARD","city":"CHAMBRETAUD","address":"Le Boisniard            85500     CHAMBRETAUD","url":"www.chateau-boisniard.com"}
+,
+{"name":"LA TRAMONTANA","city":"LILLE","address":"33 rue d'Isly            59000     LILLE","url":"www.latramontana.fr"}
+,
+{"name":"LE BISTROT GOURMAND","city":"�PINAL","address":"5, rue du Chapitre            88000     �PINAL","url":"www.lebistrotgourmand.com"}
+,
+{"name":"LE JARDIN DU QUAI","city":"L'ISLE-SUR-LA-SORGUE","address":"91 avenue Julien Guigne            84800     L'ISLE-SUR-LA-SORGUE","url":"www.lejardinduquai.com"}
+,
+{"name":"LE PETIT SAINT THOMAS","city":"LA GARNACHE","address":"25 rue de Lattre de Tassigny            85710     LA GARNACHE","url":"www.le-petit-saint-thomas.com"}
+,
+{"name":"LE ROYAL","city":"TROYES","address":"22 Bd Carnot            10000     TROYES","url":"www.royalhoteltroyes.fr"}
+,
+{"name":"LE TOURDION","city":"ROANNE","address":"17 rue de sully            42300     ROANNE","url":"www.restaurant-letourdion.fr"}
+,
+{"name":"L'INTEMPOREL","city":"BOLL�NE","address":"23 Mont�e de Barry            84500     BOLL�NE","url":""}
+,
+{"name":"� DE MER","city":"ARS-EN-R�","address":"5 rue Thiers            17590     ARS-EN-R�","url":"www.odemerbistrotgourmand.fr"}
+,
+{"name":"RELAIS CHANTOVENT","city":"MINERVE","address":"17 Grand rue            34210     MINERVE","url":"www.relaischantovent-minerve.fr"}
+,
+{"name":"RELAIS DE FARROU","city":"VILLEFRANCHE-DE-ROUERGUE","address":"Farrou            12200     VILLEFRANCHE-DE-ROUERGUE","url":"www.relaisdefarrou.com"}
+,
+{"name":"RESTAURANT 33 CITE","city":"LYON","address":"33 Quai Charles de Gaulle            69006     LYON","url":"www.33cite.com"}
+,
+{"name":"RESTAURANT M","city":"NIDERVILLER","address":"7-9 Place CHARLES DE GAULLE            57565     NIDERVILLER","url":"www.restaurant-M-niderviller.com"}
+,
+{"name":"CAFE BRUNET","city":"ANNECY-LE-VIEUX","address":"18 Place gabriel Faur�            74940     ANNECY-LE-VIEUX","url":"www.cafebrunet.com"}
+,
+{"name":"HOSTELLERIE DES CLOS","city":"CHABLIS","address":"18 rue Jules Rathier            89800     CHABLIS","url":"www.hostellerie-des-clos.com"}
+,
+{"name":"HOTEL RESTAURANT CHARTRON","city":"SAINT-DONAT-SUR-L'HERBASSE","address":"1 avenue Gambetta            26260     SAINT-DONAT-SUR-L'HERBASSE","url":"www.restaurant-chartron.com"}
+,
+{"name":"LA BORIA","city":"PRIVAS","address":"3 cours du Palais            07000     PRIVAS","url":""}
+,
+{"name":"LA TABLE DE L'HOSTELLERIE","city":"SEMUR-EN-AUXOIS","address":"Route de Saulieu            21140     SEMUR-EN-AUXOIS","url":"www.hostellerie.fr"}
+,
+{"name":"LE BONAPARTE","city":"PARIS","address":"42 rue Bonaparte            75006     PARIS","url":""}
+,
+{"name":"L'ENTRECOTE","city":"BORDEAUX","address":"4 cours du 30 juillet            33000     BORDEAUX","url":"www.entrecote.fr"}
+,
+{"name":"LES AMIS DU LAC","city":"HASPELSCHIEDT","address":"11 rue Neudorfel            57230     HASPELSCHIEDT","url":"www.amis-du-lac.fr"}
+,
+{"name":"LES BLEUETS","city":"PLERIN SUR MER","address":"52 rue DES BLEUETS            22190     PLERIN SUR MER","url":"www.restaurant-les-bleuets.fr"}
+,
+{"name":"RESTAURANT DU PARC","city":"OBERNAI","address":"169 Route Ottrott            67210     OBERNAI","url":"www.hotel-du-parc.com"}
+,
+{"name":"RESTAURANT LE PARC","city":"SAINT-HIPPOLYTE","address":"6 rue du Parc            68590     SAINT-HIPPOLYTE","url":"www.le-parc.com"}
+,
+{"name":"AU CAVEAU DE L'�TABLE","city":"NIEDERBRONN-LES-BAINS","address":"43 rue du G�n�ral de Gaulle            67110     NIEDERBRONN-LES-BAINS","url":"www.aucaveaudeletable.fr"}
+,
+{"name":"AUBERGE DU COCHON D'OR","city":"BEUZEVILLE","address":"64 rue des anciens D'Afrique du nord            27210     BEUZEVILLE","url":"www.le-cochon-dor.fr"}
+,
+{"name":"BRASSERIE JULES","city":"AMIENS","address":"18 Bd Alsace Lorraine            80000     AMIENS","url":"www.brasserie-jules.fr"}
+,
+{"name":"COTE SAVEURS","city":"VILLEFRANCHE-DE-ROUERGUE","address":"5 Place Louis Fontanges            12200     VILLEFRANCHE-DE-ROUERGUE","url":"www.cote-saveurs.fr"}
+,
+{"name":"ENTRE VIGNE & GARRIGUE","city":"PUJAUT","address":"Mas Saint-Bruno, 600 Route de Saint-Bruno            30131     PUJAUT","url":"www.vigne-et-garrigue.com"}
+,
+{"name":"HOTEL DES VOYAGEURS","city":"VERTOLAYE","address":"Le bourg            63480     VERTOLAYE","url":"www.hotel-voyageurs-vertolaye.com"}
+,
+{"name":"LA CHARTREUSE DU VAL SAINT ESPRIT","city":"GOSNAY","address":"1 rue De Fouqui�res            62199     GOSNAY","url":"www.lachartreuse.com"}
+,
+{"name":"LA MAISON DE L'AUBRAC","city":"PARIS","address":"37 rue marbeuf            75008     PARIS","url":"www.maison-aubrac.com"}
+,
+{"name":"LA TOQUE D'OR","city":"CANNES","address":"11 rue Louis Blanc            06400     CANNES","url":""}
+,
+{"name":"LA TOSCANE","city":"LYON","address":"26 bis rue Duquesne            69006     LYON","url":"www.latoscane.top"}
+,
+{"name":"LA VIGNERAIE","city":"REIMS","address":"14, rue Thillois            51100     REIMS","url":"www.vigneraie.com"}
+,
+{"name":"L'AUBERGE BRETONNE","city":"CH�TEAUBRIANT","address":"23 Place DE LA MOTTE            44110     CH�TEAUBRIANT","url":"www.auberge.bretonne@orange.fr"}
+,
+{"name":"L'AUBERGE DES RIS","city":"VALLON-EN-SULLY","address":"LIEU DIT RIS            03190     VALLON-EN-SULLY","url":"www.aubergedesris.com"}
+,
+{"name":"LE BOUCHON SULLY","city":"LYON","address":"20 rue Sully            69006     LYON","url":"www.lebouchonsully.com"}
+,
+{"name":"LE CAFE ROUGE BRASSERIE","city":"DINARD","address":"3 BD FEART            35800     DINARD","url":"www.lecaferouge-dinard.fr"}
+,
+{"name":"LE COQ DE LA Place","city":"RODEZ","address":"1 Place d'Armes            12000     RODEZ","url":""}
+,
+{"name":"LE PAVILLON DE BAILLY","city":"BAILLY","address":"1 route de Saint-Cyr            78870     BAILLY","url":"www.pavillondebailly.fr"}
+,
+{"name":"LE P'TIT ROSEAU","city":"ISSOIRE","address":"2 avenue de la Gare            63500     ISSOIRE","url":"www.lepetitroseau.fr"}
+,
+{"name":"LE SAVOYARD","city":"CHAMB�RY","address":"35 Place MONGE            73000     CHAMB�RY","url":"www.restaurant-le-savoyard.com"}
+,
+{"name":"LE VERRE Y TABLE","city":"VIROFLAY","address":"3 avenue DE VERSAILLES            78220     VIROFLAY","url":"www.leverre-y-table.com"}
+,
+{"name":"LEONIE - BISTRO ET GRILLADES","city":"L'HOSPITALET-DU-LARZAC","address":"Aire du Larzac A75            12230     L'HOSPITALET-DU-LARZAC","url":"http://www.aire-du-larzac.com/"}
+,
+{"name":"LES CAPUCINS","city":"AVALLON","address":"6 avenue paul doumer            89200     AVALLON","url":"www.avallonlescapucins.com"}
+,
+{"name":"LES CLOYERES","city":"BERNIN","address":"134 chemin des Fontaines            38190     BERNIN","url":"www.restaurant-les-cloyeres.com"}
+,
+{"name":"LES COLONNES","city":"VANDOEUVRE-L�S-NANCY","address":"4 all�e de Bourgogne            54500     VANDOEUVRE-L�S-NANCY","url":"www.cottagenancy.com"}
+,
+{"name":"LES GLYCINES","city":"LES EYZIES DE TAYAC SIREUIL","address":"4 avenue Laugerie            24620     LES EYZIES DE TAYAC SIREUIL","url":"www.les-glycines-dordogne.com"}
+,
+{"name":"NONNA GIULIA","city":"ESSEY-L�S-NANCY","address":"11 all�e du midi            54270     ESSEY-L�S-NANCY","url":"www.nonna-giulia.com"}
+,
+{"name":"O GRAIN DE SEL","city":"SAINT-GEORGES-DE-DIDONNE","address":"55 rue de la r�publique            17110     SAINT-GEORGES-DE-DIDONNE","url":""}
+,
+{"name":"PARFUM POIVRE","city":"GRANVILLE","address":"23 rue Couraye            50400     GRANVILLE","url":""}
+,
+{"name":"RESTAURANT AU B?UF","city":"PLOBSHEIM","address":"25, rue du g�n�ral Leclerc            67115     PLOBSHEIM","url":"www.restaurantauboeuf.fr"}
+,
+{"name":"RESTAURANT CHEVALIER","city":"SAINT-�TIENNE","address":"40 rue de la Badouill�re            42100     SAINT-�TIENNE","url":"http://www.chevalier-bistrot.fr"}
+,
+{"name":"RESTAURANT LE BEL AMI","city":"LE V�SINET","address":"77 bd Carnot            78110     LE V�SINET","url":"www.le-bel-ami.com"}
+,
+{"name":"RESTAURANT LESAGE","city":"SARZEAU","address":"3 Place Duchesse Anne            56370     SARZEAU","url":"www.hotelrestaurantlesage.com"}
+,
+{"name":"VINS ET TARTINES","city":"NANCY","address":"25 bis rue des Ponts            54000     NANCY","url":"www.vins-et-tartines.com"}
+,
+{"name":"A LA TABLE DU BON ROI STANISLAS","city":"NANCY","address":"7 rue Gustave Simon            54000     NANCY","url":"www.latabledestan.com"}
+,
+{"name":"BRASSERIE DES HALLES","city":"LE HAVRE","address":"35 Place des Halles            76600     LE HAVRE","url":"www.brasserie-des-halles-lehavre.fr"}
+,
+{"name":"CUISINE EN VILLE","city":"VILLEURBANNE","address":"11 rue Bellecombe            69100     VILLEURBANNE","url":""}
+,
+{"name":"DOMAINE DE RONCEMAY","city":"AILLANT-SUR-THOLON","address":"Chassy            89110     AILLANT-SUR-THOLON","url":"www.roncemay.com"}
+,
+{"name":"LA VILLA MICHEL","city":"SANTO-PIETRO-DI-VENACO","address":"Lieu-dit Taola            20250     SANTO-PIETRO-DI-VENACO","url":"www.lavillamichel.com"}
+,
+{"name":"LE BOEUF ROUGE","city":"SAINT-JUNIEN","address":"57 BD VICTOR HUGO            87200     SAINT-JUNIEN","url":"www.leboeufrouge.com"}
+,
+{"name":"LE CARNOT","city":"ARRAS","address":"10 place du Mar�chal Foch            62000     ARRAS","url":"http://le-carnot.com/"}
+,
+{"name":"Le Cabinet Vert","city":"ORL�ANS","address":"Chemin de Halage            45000     ORL�ANS","url":"www.le-cabinet-vert.com"}
+,
+{"name":"MAXIMIN HELLIO","city":"DEAUVILLE","address":"64 rue Gambetta            14800     DEAUVILLE","url":"www.maximindeauville.fr"}
+,
+{"name":"RESTAURANT LES CERISIERS - HOTEL AMELIE","city":"BRIDES-LES-BAINS","address":"Rue Emile Machet            73570     BRIDES-LES-BAINS","url":"www.hotel-amelie.com"}
+,
+{"name":"AU MOULIN GOURMAND","city":"CADENET","address":"4 rue Viala            84160     CADENET","url":"www.aumoulingourmand.fr"}
+,
+{"name":"AUBERGE DES MOISSONS","city":"MATOUGUES","address":"8 route nationale            51150     MATOUGUES","url":"www.auberge-des-moissons.com"}
+,
+{"name":"HOSTELLERIE DE FONTANGES","city":"ONET-LE-CH�TEAU","address":"Routes de Conques et Marcillac            12850     ONET-LE-CH�TEAU","url":"www.hostellerie-fontanges.com"}
+,
+{"name":"H�TEL RESTAURANT DE L'ARVE","city":"BONNEVILLE","address":"70 rue pont            74130     BONNEVILLE","url":"www.hoteldelarve.com"}
+,
+{"name":"HOTEL RESTAURANT REMOTEL","city":"KNUTANGE","address":"75 rue de la R�publique            57240     KNUTANGE","url":""}
+,
+{"name":"LA LOCO","city":"SAINT-�TIENNE","address":"31 avenue D.ROCHEREAU            42000     SAINT-�TIENNE","url":"www.restaurant-la-loco.com"}
+,
+{"name":"LA MANGEOIRE","city":"MILLAU","address":"8 bd de la capelle            12100     MILLAU","url":"www.restaurantmillau.com"}
+,
+{"name":"LA MUSARDE","city":"HAUTEVILLE-L�S-DIJON","address":"7 rue des Riottes            21121     HAUTEVILLE-L�S-DIJON","url":"www.lamusarde.fr"}
+,
+{"name":"LA SELLERIE","city":"THIVARS","address":"48 route Nationale            28630     THIVARS","url":"www.la-sellerie-thivars.com"}
+,
+{"name":"LA SOLOGNOTE","city":"BRINON-SUR-SAULDRE","address":"34 grande rue            18410     BRINON-SUR-SAULDRE","url":"www.logishotels.com"}
+,
+{"name":"LE CANTAREL","city":"ANDELOT","address":"2 Place du Cantarel            52700     ANDELOT","url":"www.hotel-restaurant-lecantarel.fr"}
+,
+{"name":"LE CHRISTIANIA","city":"LES CONTAMINES-MONTJOIE","address":"597 rte de Notre Dame de la Gorge            74170     LES CONTAMINES-MONTJOIE","url":"www.lechristiania-hotel.com"}
+,
+{"name":"LE PETIT GONE","city":"ORL�ANS","address":"11 BD Rocheplatte            45000     ORL�ANS","url":"www.lepetitgone.com"}
+,
+{"name":"LE QUAI EST","city":"COURSEULLES-SUR-MER","address":"13 quai Est            14470     COURSEULLES-SUR-MER","url":"www.le-quai-est.business.site"}
+,
+{"name":"LE SAINT M","city":"SAINT-MARTIN-DE-CRAU","address":"6 avenue de la R�publique            13310     SAINT-MARTIN-DE-CRAU","url":""}
+,
+{"name":"LES ARCADES","city":"LES SAISIES","address":"473 avenue des Jeux Olympiques            73620     LES SAISIES","url":"http://www.restaurant-lesarcades-saisies.com"}
+,
+{"name":"L'ESPLANADE","city":"BERCK-SUR-MER","address":"18 Esplanade Parmentier            62600     BERCK-SUR-MER","url":""}
+,
+{"name":"RESTAURANT DI QUI E DI LA","city":"G�MENOS","address":"188 avenue de la 2�me DB            13420     G�MENOS","url":"www.ristorante-diquiedila.fr"}
+,
+{"name":"STUDIO 16","city":"ORL�ANS","address":"16 Place du Martroi            45000     ORL�ANS","url":""}
+,
+{"name":"AUX DUCS DE LORRAINE","city":"SAINT-HIPPOLYTE","address":"16 route du vin            68590     SAINT-HIPPOLYTE","url":"www.hotel-munsch.com"}
+,
+{"name":"LA MARINIERE","city":"REMIRE MONTJOLY","address":"1074 Route de Remire RD2 - PK 9,2            97354     REMIRE MONTJOLY","url":"http://complexebelova.com/"}
+,
+{"name":"LA TABLE DES BAOUS","city":"SAINT-JEANNET","address":"42 rue Nationale            06640     SAINT-JEANNET","url":"http://www.latabledesbaous.fr"}
+,
+{"name":"LE FER A CHEVAL","city":"ROUBAIX","address":"116 avenue Jean Jaur�s            59100     ROUBAIX","url":"www.leferacheval-restaurant.com"}
+,
+{"name":"LE GRIGNOT","city":"LE HAVRE","address":"53 rue racine            76600     LE HAVRE","url":"http://www.legrignot.fr"}
+,
+{"name":"LE PATIO","city":"AMBOISE","address":"14 rue Nationale            37400     AMBOISE","url":""}
+,
+{"name":"LE TEMPS SUSPENDU","city":"SAINT-JEAN-DE-V�DAS","address":"23 bis route de Montpellier            34430     SAINT-JEAN-DE-V�DAS","url":"http://www.le-temps-suspendu.fr/"}
+,
+{"name":"RESTAURANT DE LA MER","city":"PIROU","address":"2 avenue F. Desplanques            50770     PIROU","url":"www.restaurantdelamer.com"}
+,
+{"name":"RESTAURANT GRANGE","city":"LA TOUR EN MAURIENNE","address":"LE CHATEL            73300     LA TOUR EN MAURIENNE","url":"www.restaurantgrange.fr"}
+,
+{"name":"RESTAURANT LE BELEM","city":"THARON-PLAGE","address":"56 Avenue de la Convention            44730     THARON-PLAGE","url":"www.restaurantlebelem.fr"}
+,
+{"name":"AUBERGE DE VEZON","city":"MARIEULLES-VEZON","address":"58 rue des Vignerons            57420     MARIEULLES-VEZON","url":"www.auberge-de-vezon.fr"}
+,
+{"name":"BISTROT DE CHARENTON","city":"CHARENTON-LE-PONT","address":"123 rue de Paris            94220     CHARENTON-LE-PONT","url":"www.bistrotdecharenton.fr"}
+,
+{"name":"IMPERIAL GAROUPE","city":"ANTIBES","address":"770 chemin de la Garoupe - le Cap d'Antibes -            06600     ANTIBES","url":"www.lepavillongaroupe.com"}
+,
+{"name":"Creperie bretonne la Bol�e","city":"NANCY","address":"43 Rue des Ponts            54000     NANCY","url":"www. creperie-labolee.com"}
+,
+{"name":"LA FORET","city":"SENONCHES","address":"22 rue de verdun            28250     SENONCHES","url":"www.hoteldelaforet-senonches.com"}
+,
+{"name":"LE CLOS DES SENS","city":"ANNECY-LE-VIEUX","address":"13, rue Jean Mermoz            74940     ANNECY-LE-VIEUX","url":"www.closdessens.com"}
+,
+{"name":"LE SLOOP","city":"LES SABLES-D'OLONNE","address":"5 promenade G. Godet            85100     LES SABLES-D'OLONNE","url":"www.atlantichotel.fr"}
+,
+{"name":"L'EMBELLIE","city":"SAINTE-C�CILE","address":"Le Bourg            71250     SAINTE-C�CILE","url":"www.restaurant-lembellie.com"}
+,
+{"name":"RESTAURANT COLLIN","city":"FERRETTE","address":"4 rue du Ch�teau            68480     FERRETTE","url":"www.hotelcollin.net"}
+,
+{"name":"VERTE VALLEE","city":"MUNSTER","address":"10 rue ALFRED Hartmann            68140     MUNSTER","url":"www.vertevallee.com"}
+,
+{"name":"AU RAISIN","city":"MUNDOLSHEIM","address":"1 rue des Rossignols            67450     MUNDOLSHEIM","url":"www.auraisin.fr"}
+,
+{"name":"CAJARC BLUE HOTEL","city":"CAJARC","address":"380 avenue Fran�ois Mitterrand            46160     CAJARC","url":"http://www.cajarcbluehotel.fr/"}
+,
+{"name":"JOUR DE MARCHE","city":"LYON","address":"14 rue Moli�re            69006     LYON","url":""}
+,
+{"name":"LA FLAMICHE","city":"ROYE","address":"20 Place de jacques Fleury            80700     ROYE","url":"www.restaurantlaflamiche.fr"}
+,
+{"name":"LA MAISON DE LA LOZ�RE","city":"MONTPELLIER","address":"27 rue de l'Aiguillerie            34000     MONTPELLIER","url":"www.celliermorel.com"}
+,
+{"name":"LA PETITE AUBERGE","city":"LE HOWALD","address":"6 rue principale            67140     LE HOWALD","url":"www.lapetiteauberge-hohwald.com"}
+,
+{"name":"LA PIGNATO","city":"LE LAVANDOU","address":"13 rue de l'Abb� Helin            83980     LE LAVANDOU","url":""}
+,
+{"name":"LA TOQUE BLANCHE","city":"B�NESTROFF","address":"49 grande rue            57670     B�NESTROFF","url":"http://latoque-blanche.fr"}
+,
+{"name":"L'AMBROISIE","city":"M�CON","address":"103 rue Marcel Paul            71000     M�CON","url":"www.lambroisie.fr"}
+,
+{"name":"L'AUBERGE DE CASSAGNE","city":"LE PONTET","address":"450 all�e de Cassagne            84130     LE PONTET","url":"www.aubergedecassagne.fr"}
+,
+{"name":"LE BISTROQUET","city":"CH�TILLON-EN-DIOIS","address":"6 Place Pierre D�voluy            26410     CH�TILLON-EN-DIOIS","url":"http://hoteldudauphine-drome.fr"}
+,
+{"name":"LE BOUCHE � OREILLE","city":"CABOURG","address":"10 avenue des Dunettes            14390     CABOURG","url":"www.boucheaoreille-cabourg.fr"}
+,
+{"name":"LE COTTAGE DU LAC","city":"BRUGES","address":"19 rue de Daug�re            33520     BRUGES","url":"www.lecottagedulac.fr"}
+,
+{"name":"LE COUP DE FOURCHETTE","city":"BREST","address":"21 rue de Lyon            29200     BREST","url":""}
+,
+{"name":"LES JARDINS DE L'HAMADRYADE","city":"VILLENEUVE D'ASCQ","address":"26 rue jules Ferry            59650     VILLENEUVE D'ASCQ","url":"www.lesjardinsdelhamadryade.com"}
+,
+{"name":"LES TROIS MAURES","city":"COUCHES","address":"4 Place de la R�publique            71490     COUCHES","url":""}
+,
+{"name":"MANOIR DE MO�LLIEN","city":"PLON�VEZ-PORZAY","address":"Manoir de Mo�llien            29550     PLON�VEZ-PORZAY","url":"www.manoirmoellien.fr"}
+,
+{"name":"VINCENT CROIZARD","city":"N�MES","address":"17 rue des Chassaintes            30900     N�MES","url":"www.restaurantcroizard.com"}
+,
+{"name":"AUBERGE DU SCHANTZWASEN","city":"STOSSWIHR","address":"Schanzwasen            68140     STOSSWIHR","url":"www.auberge-schantzwasen.com"}
+,
+{"name":"BISCOTTE","city":"PARIS","address":"22 rue Desnouettes            75015     PARIS","url":"https://restaurant-biscotte.com/"}
+,
+{"name":"LA COMMANDERIE DE CHAMPAREY","city":"BOURGOIN-JALLIEU","address":"7 Boulevard de Champaret            38300     BOURGOIN-JALLIEU","url":"www.la-commanderie.com"}
+,
+{"name":"LA MANDOLINE","city":"LES TROIS ILETS","address":"Village de la Poterie            97229     LES TROIS ILETS","url":""}
+]

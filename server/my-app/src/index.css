@@ -1,0 +1,118 @@
+/*body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}*/
+
+
+h1
+{
+	color : rgb(241,219,214);
+}
+
+.bienve
+{
+	text-align: center;
+}
+
+body
+{
+    background-color:rgb(39,158,216);
+}
+
+.listeonglet
+{
+	border: 3px black solid;
+	margin: 0px 3px 0px 0px;
+	width: 200px;
+	font-size: 20px;
+	text-align: center;
+	padding: 14px;
+	background-color:white;
+	opacity: 0.65;
+}
+
+#PageAccueil
+{
+    display: flex;
+}
+
+
+#onglets
+{
+	margin: 0px 40px 0px 0px;
+}
+
+.information_personnelles
+{
+	background-color:grey;
+	border: 1px black solid;
+}
+
+.Accueil
+{
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    border: 3px rgb(12,84,133) solid;
+	border-radius: 10px;
+	background-color:rgb(117,192,242);
+	
+}
+
+#Accueil1
+{
+	border: 1px black solid;
+	border-radius: 10px;
+	background-color:white;
+	opacity: 0.65;
+	text-align: center
+}
+
+#Accueil2
+{
+	display: flex;
+	flex: 1;
+	margin: 45px 0px 0px 4px;
+
+}
+
+#Accueil2_perso
+{
+	margin: 0px 0px 0px 40px;
+	padding: 5px;
+
+	border: 1px black solid;
+	border-radius: 10px;
+	background-color:white;
+	opacity: 0.80;
+	flex: 2;
+}
+
+
+*
+{
+    font-family: "Arial";
+}
+
+.information_personnelles
+{
+	background-color:grey;
+	border: 1px black solid;
+	text-align:center;
+	border-radius: 10px;
+	width:30%;
+	margin: auto;
+
+}
+
+
