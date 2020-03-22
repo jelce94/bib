@@ -3,30 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 
-const bibMaitre  =  require('./bib_maitre');
-const names = ['James', 'John', 'Paul', 'Ringo', 'George'];
-const people = [
-  {
-    name: 'James',
-    age: 31,
-  },
-  {
-    name: 'John',
-    age: 45,
-  },
-  {
-    name: 'Paul',
-    age: 65,
-  },
-  {
-    name: 'Ringo',
-    age: 49,
-  },
-  {
-    name: 'George',
-    age: 34,
-  }
-];
+const bibMaitre  =  require('./bib_maitre.json');
 
 function App() {
   return (
@@ -34,24 +11,17 @@ function App() {
        <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <div>
-        {people.filter(person => person.age < 60).map(filteredPerson => (
-    <li>
-      {filteredPerson.name}
-      {filteredPerson.age}
-    </li>
-  ))}
-  <div>
-      {names.filter(name => name.includes('J')).map(filteredName => (
-        <li>
-          {filteredName}
-        </li>
-      ))}
-    </div>
+        
     <div>
       {bibMaitre.filter(restau => restau.name.includes('L')).map(filteredRestau => (
-        <li>
-          {filteredRestau.name}
-        </li>
+        <div>
+          <ul>
+            <li>{filteredRestau.name} </li><br/>
+            <li>{filteredRestau.city} </li><br/>
+            <li>{filteredRestau.address}</li><br/>
+            <li>{filteredRestau.url}</li><br/>
+          </ul>
+          </div>
       ))}
     </div>
       </div>
